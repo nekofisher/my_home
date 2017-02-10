@@ -1,0 +1,152 @@
+#!/usr/bin/python
+
+import os
+import sys
+import subprocess
+import argparse
+import pprint
+
+
+def main():
+
+    command = 'for branch in `git branch -r --merged | grep -v HEAD`; do echo -e `git show --format="%cr::%an::" $branch | head -n 1` \\t$branch; done | sort -r'
+    if options.all:
+        command = command.replace("--merged", "")
+
+
+
+    output = subprocess.check_output(command, shell=True)
+
+    data = output.split("\n")
+
+    branches = []
+    for d in data:
+        if not d.startswith("-e"):
+            continue
+        d = d.replace("-e ", "")
+        age_months, user, branch = get_the_info(d)
+
+        if options.owner is not None and options.owner not in user:
+            continue
+
+        if options.months is not None and age_months < options.months:
+            continue
+
+        if options.branch_filter is not None:
+            all_met = True
+            for filt in options.branch_filter:
+                if filt not in branch:
+                    all_met = False
+
+            if not all_met:
+                continue
+
+        branches.append((age_months, user, branch))
+
+
+
+    # Primary key - age secondary key - user
+    branches = sorted(branches, key=lambda tup: tup[1])
+    branches = sorted(branches, key=lambda tup: tup[0])
+
+    if len(branches) == 0:
+        print "\n\nNo branches meet the criteria specified\n"
+        return
+
+
+    print "\nBranches considered:"
+    for age, user, branch in branches:
+        print "\t%-10.2f %-30s %s" % (age, user, branch)
+    print "\n\nFound %d branches\n\n" % len(branches)
+
+    # Lets see if they wanted these deleted
+    if options.delete:
+
+        resp = raw_input(
+            "Would you like to delete the above branches?\n"
+            "You must enter 'YES' to do so.\n\n"
+        )
+
+        if resp != "YES":
+            print "\n\nYou did not enter 'YES'.  Exiting.\n"
+            return
+
+        # If we get here, do the deleting
+        for _, _, branch in branches:
+            command = "git push origin :%s" % branch
+            subprocess.call(command, shell=True)
+
+
+
+def get_the_info(line):
+    """
+    Parses the branch info to get the age of the branch, the user and the branch name
+    """
+
+    toks = line.split("::")
+    age = toks[0].strip()
+    user = toks[1].strip()
+    branch = toks[2].strip()
+
+
+    branch = branch.replace('torigin/', 'origin/')
+    branch = branch.replace('origin/', '')
+    age = age.replace("ago", "")
+    age = age.strip()
+    toks = age.split(",")
+
+    age_months = 0
+    for tok in toks:
+        tok = tok.strip()
+        scalar = float(tok.split()[0].strip())
+        if "year" in tok:
+            age_months += 12 * scalar
+        elif "month" in tok:
+            age_months += scalar
+        elif "week" in tok:
+            age_months += 0.25 * scalar # 4 weeks to a month
+        elif "day" in tok:
+            age_months += scalar / 30.0 # 30 days to a month
+
+    return age_months, user, branch
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(
+        usage="Usage: %s <directory to cluster>" % sys.argv[0]
+    )
+
+
+    parser.add_argument(
+        'branch_filter', metavar='S', type=str, nargs="*",
+        help="Specify a filter on branch name"
+    )
+
+    parser.add_argument(
+        "--owner",
+        help="The branch owner",
+    )
+
+    parser.add_argument(
+        "--months",
+        type=float,
+        help="Only consider branches older than the specified amount in months",
+    )
+
+    parser.add_argument(
+        "--delete",
+        action='store_true',
+        help="Delete the branches meeting the filters from the remote repo"
+    )
+
+    parser.add_argument(
+        "--all",
+        action='store_true',
+        help="Search all remote branches rather than those merged into develop"
+    )
+
+
+
+    # options will be in global scope for easy access
+    options = parser.parse_args()
+
+    main()

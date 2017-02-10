@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/ecb-2.32
+END
+ecb-autoloads.el
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/ecb-2.32/ecb-autoloads.el
+END
+ecb-analyse.el
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/ecb-2.32/ecb-analyse.el
+END
+ecb-navigate.el
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/ecb-2.32/ecb-navigate.el
+END
+ecb-face.el
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/ecb-2.32/ecb-face.el
+END
+ecb-cycle.el
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/ecb-2.32/ecb-cycle.el
+END
+ecb-file-browser.el
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/ecb-2.32/ecb-file-browser.el
+END
+ecb-method-browser.el
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/ecb-2.32/ecb-method-browser.el
+END
+ecb-autogen.el
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/ecb-2.32/ecb-autogen.el
+END
+ecb-winman-support.el
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/ecb-2.32/ecb-winman-support.el
+END
+ecb-mode-line.el
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/ecb-2.32/ecb-mode-line.el
+END
+ecb-layout.el
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/ecb-2.32/ecb-layout.el
+END
+ecb-compilation.el
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/ecb-2.32/ecb-compilation.el
+END
+ecb-examples.el
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/ecb-2.32/ecb-examples.el
+END
+tree-buffer.el
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/ecb-2.32/tree-buffer.el
+END
+ecb-semantic-wrapper.el
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/ecb-2.32/ecb-semantic-wrapper.el
+END
+ecb-speedbar.el
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/ecb-2.32/ecb-speedbar.el
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/ecb-2.32/NEWS
+END
+ecb-tod.el
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/ecb-2.32/ecb-tod.el
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/ecb-2.32/Makefile
+END
+make.bat
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/ecb-2.32/make.bat
+END
+ecb-layout-defs.el
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/ecb-2.32/ecb-layout-defs.el
+END
+ecb.el
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/ecb-2.32/ecb.el
+END
+RELEASE_NOTES
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/ecb-2.32/RELEASE_NOTES
+END
+ecb-jde.el
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/ecb-2.32/ecb-jde.el
+END
+ecb-makedef.mk
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/ecb-2.32/ecb-makedef.mk
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/ecb-2.32/README
+END
+ecb-compatibility.el
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/ecb-2.32/ecb-compatibility.el
+END
+ecb-common-browser.el
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/ecb-2.32/ecb-common-browser.el
+END
+ecb.texi
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/ecb-2.32/ecb.texi
+END
+ecb-eshell.el
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/ecb-2.32/ecb-eshell.el
+END
+ecb-util.el
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/ecb-2.32/ecb-util.el
+END
+ecb-create-layout.el
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/ecb-2.32/ecb-create-layout.el
+END
+ecb-symboldef.el
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/ecb-2.32/ecb-symboldef.el
+END
+silentcomp.el
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/ecb-2.32/silentcomp.el
+END
+ecb-upgrade.el
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/ecb-2.32/ecb-upgrade.el
+END
+ecb-help.el
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/ecb-2.32/ecb-help.el
+END

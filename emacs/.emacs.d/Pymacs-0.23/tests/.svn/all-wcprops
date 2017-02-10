@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/Pymacs-0.23/tests
+END
+setup.el
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/Pymacs-0.23/tests/setup.el
+END
+test_10.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/Pymacs-0.23/tests/test_10.py
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/Pymacs-0.23/tests/setup.py
+END
+test_11.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/Pymacs-0.23/tests/test_11.py
+END
+test_20.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/Pymacs-0.23/tests/test_20.py
+END
+pytest
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/Pymacs-0.23/tests/pytest
+END
+test_21.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/Pymacs-0.23/tests/test_21.py
+END
+test_30.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/Pymacs-0.23/tests/test_30.py
+END
+test_31.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/Pymacs-0.23/tests/test_31.py
+END
+test_40.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/Pymacs-0.23/tests/test_40.py
+END
+test_41.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/Pymacs-0.23/tests/test_41.py
+END

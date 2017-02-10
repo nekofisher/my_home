@@ -1,0 +1,28 @@
+# skip startup message
+startup_message off
+
+# Open new window in current dir.
+bind c stuff "screen -X chdir \$PWD;screen^M"
+bind ^c stuff "screen -X chdir \$PWD;screen^M"
+
+
+# Automatic detach
+autodetach on
+
+# Default scrollback
+defscrollback 10000
+
+# visual bell
+
+# start with visual bell as default
+vbell on
+vbell_msg "bell on %t (%n)"
+
+# look and feel
+caption always "%{= bb}%{+b w}%n %t %h %=%l %H %c"
+hardstatus alwayslastline "%-Lw%{= BW}%50>%n%f* %t%{-}%+Lw%<"
+
+activity "Activity in %t(%n)"
+
+shelltitle "bash"
+shell "/bin/bash"

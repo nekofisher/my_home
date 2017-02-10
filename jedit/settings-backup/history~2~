@@ -1,0 +1,153 @@
+[search.directory]
+/home/nfisher/code/slams/
+/home/nfisher/code/slams/utilities/sge_testing
+/home.remote/nfisher/code/viva/utilities/sge_testing
+/home.remote/nfisher/code/viva/system_tests/nightly/viva_audiopin_functional_tests
+/home.remote/nfisher/code/viva/
+/home.remote/nfisher/code/viva/utilities/sge_testing/
+/home/nfisher/code
+/home/nfisher/code/slams_v2/src/core/utilities/system/sge/
+/home/nfisher/code/slams_v2/src
+/home/nfisher/code/slams_v2/
+/home/nfisher/code/slams_v2/src/core/
+/home/nfisher/code/slams_v2/slams_worker/
+/home/nfisher/code/slams_v2
+/home/nfisher/code/slams_v2/api/
+/home/nfisher/code/slams
+/home/nfisher/code/slams_v2/slams_system_tests/
+/home/nfisher/code/slams_v2/core/
+/home/nfisher/code/slams_install/pyinstaller/
+/home/nfisher/code/slams_v2/text_dependent_worker/
+/home/nfisher/code/slams_v2/api_client/
+[vfs.browser.path]
+/home/nfisher/code/slams/audiotools/components/dup_detect
+/home/nfisher/code/slams/utilities/sge_testing
+/home/nfisher/code/slams/utilities
+/home/nfisher/code/slams
+/home.remote/nfisher/code/slams/utilities/sge_testing
+/home.remote/nfisher/code/slams/utilities
+/home.remote/nfisher/code/slams
+/home.remote/nfisher/code/slams/uti
+/home/nfisher/code/slams/audiotools/components/segmenters
+/home/nfisher/code/slams/audiotools/tests
+/home.remote/nfisher/code/viva/utilities/sge_testing
+/home.remote/nfisher/code/viva/utilities
+/home.remote/nfisher/code/viva
+/home.remote/nfisher/code/slams_install/pyinstaller
+/home.remote/nfisher/code/slams_install
+/home.remote/nfisher/code/slams_install/pyinstaller/slams_api
+/home.remote/nfisher/code
+/home.remote/nfisher/code/viva/system_tests/nightly/pbx_functional_tests
+/home.remote/nfisher/code/viva/system_tests/nightly
+/home.remote/nfisher/code/viva/system_tests/nightly/viva_audiopin_functional_tests
+[helpviewer.search]
+line wrapping
+[find]
+full_clustering_tool_results.pkl
+training_files
+def _train
+run_clustering_tool
+sctu
+meta
+KEY_CT_SEGMENT_DATA
+ct_meta_data
+sim_matrix
+files
+samples_of_interest
+read_op
+AudioFileReaderOp
+get_sample
+_diarize_file
+target_ids
+self.
+_ct_meta
+samplerate
+audio_files
+[replace]
+float(\"nan\")
+STREAMING_INDEX_TO_SECONDS_CONVERSION
+INDEX_TO_SECONDS_CONVERSION
+ZerosToneSegmenter
+TD_WORKER_DIR
+SCRIPT_DIR
+API_DIR
+BUILD_DIR
+slams_worker.slams_worker_tools
+slams_worker.run_slams_worker.slams_worker_tools
+slams_worker.run_slams_worker.
+slams_v2_dir
+float(\'nan\')
+/shared/slams/v1_test_files/
+all_files
+train_group
+lib.analyzer
+ lib.analyzer.
+lib
+/shared/slams
+[search.filter]
+*.py
+*
+*.sh
+*.spec
+*.sh|*.py|*.spec
+*.sh|*.py
+SCon*
+*.html|*.js
+*.js|*.html
+*.js
+*.py|*.js
+*.cc
+*.py|*.cpp|*.h|*.i|*.cc|*.cu|scon*
+*.py|*.cpp|*.h|*.i|*.cc|*.cu
+*.py|*.cpp|*.h|*.i|*.cc
+*.py|*.cpp|*.h|*.i
+*.py|*.cpp|*.h
+SC*
+SC
+*.cpp|*.h
+[vfs.browser.filter]
+*\[^~#\]
+*\[^~#\].fit
+*\[^~#\].vhd
+[action]
+save
+backspace
+prev-char
+next-line
+prev-line
+select-all
+next-char
+paste
+insert-newline-indent
+copy
+select-end
+home
+find
+end
+complete-word
+delete
+select-next-char
+openit.find-file-in-source-path
+print
+insert-tab-indent
+[clipboard]
+sudo openvpn --up /etc/openvpn/update-resolv-conf --down /etc/openvpn/update-resolv-conf --config \"${argv\[0\]}\"
+mult_spkrs
+KEY_CT_HAS_MULTIPLE_SPEAKERS
+# XGM - python 2.6 compatible update\n        data = {}\n        for idx, f in enumerate(training_files):\n            data\[\'%s_%s\' % (idx, os.path.basename(f))\] = open(f, \'rb\')
+uri = sc.URI_JOBS\n        data = {\n            sc.KEY_REQUEST: sc.REQUEST_CLUSTERING_TOOL\n        }\n\n        data\[sc.KEY_CT_THRESHOLD\] = threshold\n\n        result = self._put(uri, data)\n\n        return result
+def run_clustering_tool(self, files, threshold=6.0, mulitple_):\n        \"\"\"\n        Run the clustering tool using the files that have been specified.\n        \"\"\"\n        uri = sc.URI_JOBS\n        data = {\n            sc.KEY_REQUEST: sc.REQUEST_CLUSTERING_TOOL\n        }\n\n        data\[sc.KEY_CT_THRESHOLD\] = threshold\n\n        result = self._put(uri, data)\n\n        return result
+os.listdir(options.clustering_directory)
+os.path.join(options.clustering_directory, fn)
+KEY_CT_DIAR_RESULTS
+KEY_CT_SEGMENT_DATA
+diar_results
+spk_key_to_fn\[spk_key\]
+\[os.path.basename(f) for f in files\]
+KEY_CT_FILES = \'files\'
+parameters.get(sc.KEY_CT_FILES, None)
+samples
+    def _get_samples_and_segs(fn, has_multiple_speakers):\n        \"\"\"\n        Will return the samples of interest for each speaker in a file.\n        Along with the corresponding diarization label\n        \"\"\"\n\n        read_op = AudioFileReaderOp()\n        if has_multiple_speakers:\n            diarizations, samples, sr, sample_time_axis = (\n                self._diarize_file(fn, read_op))\n\n            # Determine possible diarization labels (skip unkown or errors)\n            diar_labels = set(\[d\[\'label\'\] for d in diarizations\n                if len(d\[\'label\'\]) <= 2\])\n\n            # Now that we have the samples and the diarizations, lets pick\n            # out the segments corresponding to each label, and record it\n\n            for dl in diar_labels:\n                # Extract the segments of interest and convert to\n                # json serializable format\n                segs = \[\n                    {\n                        \"start\": float(dr\[\'start\'\]),\n                        \"stop\": float(dr\[\'stop\'\]),\n                        \"label\": str(dr\[\'label\'\])\n                    }\n                    for dr in diarizations if dr\[\'label\'\] == dl\n                \]\n\n                # Get the boolean array of the segments of interest\n                bool_array = adu.convert_segments_list_to_bool_array(\n                    sample_time_axis,\n                    segs\n                )\n                samples_of_interest = samples\[bool_array\]\n                yield samples_of_interest, sr, dl, segs\n\n        else:\n            dl = \"A\" # Only 1...make it A\n            # Assign the entire file to a single speaker\n            res = read_op.process(filename=fn)\n            segs = \[{\n                \"start\": float(0),\n                \"stop\": float(res\[\'duration\'\]),\n                \"label\": str(dl)\n            }\]\n            samples = res\[\'samples\'\]\n            sr = res\[\'samplerate\'\]\n            yield samples, sr, dl, segs\n            \n    #-----------------------------------------------------------------------\n\n\n    def _diarize_file(self, fn, read_op):\n        \"\"\"\n        Diarizes the given file and returns the diarization results\n        \"\"\"\n\n        res = read_op.process(filename=fn)\n\n        samples = res\[\'samples\'\]\n        samplerate = res\[\'samplerate\'\]\n        sample_time_axis = res\[\'sample_time_axis\'\]\n\n        seg_results = self._runner._segrizifier.segment_single_trial(\n            samples,\n            samplerate)\n\n        diar_results = self._runner._segrizifier.diarize_single_trial(\n            samples,\n            samplerate,\n            seg_results\n        )\n\n        return diar_results, samples, samplerate, sample_time_axis
+read_op = AudioFileReaderOp()
+samples_of_interest
+# Get the boolean array of the segments of interest\n                bool_array = adu.convert_segments_list_to_bool_array(\n                    sample_time_axis,\n                    diarizations\n                )\n                samples_of_interest = samples\[bool_array\]

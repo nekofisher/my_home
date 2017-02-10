@@ -1,0 +1,24 @@
+// This is a recorded macro. First, check over the
+// commands to make sure this is what you intended. Then,
+// save this buffer, and the macro should appear in the
+// Macros menu.
+SearchAndReplace.setSearchString("from PyQt4.QtCore import pyqtRemoveInputHook;	pyqtRemoveInputHook();import ipdb; ipdb.set_trace()");
+SearchAndReplace.setAutoWrapAround(true);
+SearchAndReplace.setReverseSearch(false);
+SearchAndReplace.setIgnoreCase(true);
+SearchAndReplace.setRegexp(false);
+SearchAndReplace.setSearchFileSet(new CurrentBufferSet());
+SearchAndReplace.find(view);
+SearchAndReplace.setSearchString("from PyQt4.QtCore import pyqtRemoveInputHook;	pyqtRemoveInputHook();import ipdb; ipdb.set_trace()");
+SearchAndReplace.setReplaceString("");
+SearchAndReplace.setBeanShellReplace(false);
+SearchAndReplace.setIgnoreCase(true);
+SearchAndReplace.setRegexp(false);
+SearchAndReplace.replace(view);
+//SearchAndReplace.setSearchString("import ipdb; ipdb.set_trace()");
+//SearchAndReplace.setAutoWrapAround(false);
+//SearchAndReplace.setReverseSearch(false);
+//SearchAndReplace.setIgnoreCase(true);
+//SearchAndReplace.setRegexp(false);
+//SearchAndReplace.setSearchFileSet(new CurrentBufferSet());
+//SearchAndReplace.find(view);

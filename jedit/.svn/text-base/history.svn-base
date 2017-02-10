@@ -1,0 +1,153 @@
+[replace]
+h1ksim.TDSPS_PER_CLUSTER
+()
+M_LOG_TRACE
+sim
+_send_table
+  0x
+0  0
+_is_ifd_stalled
+\\t\\t
+\\t
+get_out_port_for_device
+get_in_port_for_device
+_zuma_map
+LWR
+Zuma
+DeviceLookupTable
+FMULT
+4
+3
+2
+[vfs.browser.path]
+/home/nfisher/intellisisProjects/hermosa_ws/H1000_Sim/kernel_tools/user_input/Guppie
+/home/nfisher/intellisisProjects/hermosa_ws/H1000_Sim/kernel_tools/user_input
+/home/nfisher/intellisisProjects/hermosa_ws/H1000_Sim/kernel_tools/user_input/FFT
+/home/nfisher/intellisisProjects/hermosa_ws/H1000_Sim/kernel_tools/user_input/tests/fft
+/home/nfisher/intellisisProjects/hermosa_ws/H1000_Sim/kernel_tools/user_input/tests
+/home/nfisher/intellisisProjects/hermosa_ws/H1000_Sim/kernel_tools/intermediate_representation
+/home/nfisher/jedit/macros
+/home/nfisher/jedit
+/home/nfisher
+/home/nfisher/intellisisProjects/hermosa_ws/H1000_Sim/kernel_tools/user_input/tests/guppie
+/home/nfisher/intellisisProjects/hermosa_ws/H1000_Sim/kernel_tools/user_input/parse_inter_rep_test
+/home/nfisher/intellisisProjects/hermosa_ws/H1000_Sim/src/h1ksim/executables/python_utils
+/home/nfisher/intellisisProjects/hermosa_ws/H1000_Sim/kernel_tools
+/home/nfisher/intellisisProjects/hermosa_ws/H1000_Sim/kernel_tools/flit_packets
+/home/nfisher/intellisisProjects/hermosa_ws/H1000_Sim/src
+/home/nfisher/intellisisProjects/hermosa_ws/H1000_Sim
+/home/nfisher/intellisisProjects/hermosa_ws/H1000_Sim/kernel_tools/user_input/Fibo
+/home/nfisher/intellisisProjects/hermosa_ws/H1000_Sim/src/h1ksim
+/home/nfisher/Desktop
+/home/nfisher/intellisisProjects/hermosa_ws/kernel_tools_4081/user_input/FFT
+[helpviewer.search]
+line wrapping
+[search.filter]
+*.py
+*.cc|*.h|
+*.cc|*.h
+*.json
+*.c|*.h
+*
+*.cc
+*.cpp|*.h
+*.txt|*.py
+*.txt
+*.cc|*.h|*.py
+*.cc|*.h|SCon*
+SCon*
+Scons
+*.cpp|*.h|*.cc|*.c
+*.cpp | *.h | *.cc | *.c
+*.nmc
+*.cc *.h
+*.py|*.cu|*.c|*.h|*.i
+*.py|*.cu|*.c|*.h
+[vfs.browser.filter]
+*\[^~#\]
+*\[^~#\].fit
+*\[^~#\].vhd
+[action]
+save
+delete
+prev-line
+backspace
+home
+select-end
+redo
+undo
+end
+prev-char
+next-line
+insert_break_point
+insert-newline-indent
+VariablePrint
+find-next
+find
+copy
+openit.find-file-in-source-path
+paste
+cut
+[clipboard]
+ker_names_list
+generate_ker_names_list
+gen_hex_file
+kernel_file
+# Don\'t change...
+# Check if we are on a windows box (msvs build)
+intermediate_representation.
+if(\'generate_imm_label_dict\' in dir(uf)):\n\t\timm_dict = uf.generate_imm_label_dict(kernel_name = kernel_name)\n\telse:\n\t\timm_dict = {}
+# See if there is program specific clean up to be done
+# See if there is program specific clean up to be done\n\t\tsys.path.append(args\[0\])\n\t\timport user_funcs as uf
+###############################################################################\nif __name__ == \'__main__\':\n\tunittest.main(verbosity=2)
+run_script(clean = False)
+############################################################################\n\ndef run_script(clean = False):\n\tif clean:\n\t\tcmd = \'{PYTHON} compile_script.py {TEST_DIR} -c\'.format(\n\t\t\tUSER_INPUT = USER_INPUT,\n\t\t\tPYTHON = PYTHON,\n\t\t\tTEST_DIR = TEST_DIR)\n\telse:\n\t\tcmd = \'{PYTHON} compile_script.py {TEST_DIR}\'.format(\n\t\t\tUSER_INPUT = USER_INPUT,\n\t\t\tPYTHON = PYTHON,\n\t\t\tTEST_DIR = TEST_DIR)\n\n\tcommands = shlex.split(cmd)\n\n\tos.chdir(USER_INPUT)\n\n\ttry:\n\t\tsubprocess.check_call(\n\t\t\tcommands,\n# \t\t\t\tstdout = subprocess.PIPE,\n# \t\t\t\tstderr = subprocess.PIPE,\n\t\t\t)\n\n\t\tecode = SUCCESS\n\n\texcept subprocess.CalledProcessError:\n\n\t\traise AssertionError(\"Failed to execute: %s\" % cmd)\n\n\tos.chdir(TEST_DIR)
+if __name__ == \'__main__\':\n\tunittest.main(verbosity=2)
+\"kernel_assembly*.thex\",
+\"kernel_assembly*.tasm\",
+run_script(clean =  False)
+############################################################################\n\ndef run_script(clean = False):\n\tif clean:\n\t\tcmd = \'{PYTHON} compile_script.py {TEST_DIR} -c\'.format(\n\t\t\tUSER_INPUT = USER_INPUT,\n\t\t\tPYTHON = PYTHON,\n\t\t\tTEST_DIR = TEST_DIR)\n\telse:\n\t\tcmd = \'{PYTHON} compile_script.py {TEST_DIR}\'.format(\n\t\t\tUSER_INPUT = USER_INPUT,\n\t\t\tPYTHON = PYTHON,\n\t\t\tTEST_DIR = TEST_DIR)\n\n\tcommands = shlex.split(cmd)\n\n\tos.chdir(USER_INPUT)\n\n\ttry:\n\t\tsubprocess.check_call(\n\t\t\tcommands,\n# \t\t\t\tstdout = subprocess.PIPE,\n# \t\t\t\tstderr = subprocess.PIPE,\n\t\t\t)\n\n\t\tecode = SUCCESS\n\n\texcept subprocess.CalledProcessError:\n\n\t\traise AssertionError(\"Failed to execute: %s\" % cmd)\n\n\tos.chdir(TEST_DIR)\n
+run_script()
+\t\tcommands = shlex.split(cmd)\n\n\t\tos.chdir(USER_INPUT)\n\n\t\ttry:\n\t\t\tsubprocess.check_call(\n\t\t\t\tcommands,\n# \t\t\t\tstdout = subprocess.PIPE,\n# \t\t\t\tstderr = subprocess.PIPE,\n\t\t\t\t)\n\n\t\t\tecode = SUCCESS\n\n\t\texcept subprocess.CalledProcessError:\n\n\t\t\traise AssertionError(\"Failed to execute: %s\" % cmd)\n\n\t\tos.chdir(TEST_DIR)\n
+[search.directory]
+/home/nfisher/intellisisProjects/hermosa_ws/H1000_Sim/kernel_tools/
+/home/nfisher/intellisisProjects/hermosa_ws/H1000_Sim/src/h1ksim/
+/home/nfisher/intellisisProjects/hermosa_ws/H1000_Sim/src
+/home/nfisher/intellisisProjects/hermosa_ws/H1000_Sim/kernel_tools/user_input/FFT/
+/home/nfisher/intellisisProjects/hermosa_ws/H1000_Sim/kernel_tools
+/home/nfisher/intellisisProjects/hermosa_ws/H1000_Sim/src/h1ksim
+/home/nfisher/intellisisProjects/hermosa_ws/H1000_Sim_Clean/src/h1ksim/
+/home/nfisher/intellisisProjects/hermosa_ws/H1000_Sim_Clean/src/h1ksim/tests/
+/home/nfisher/intellisisProjects/hermosa_ws/H1000_Sim
+/home/nfisher/intellisisProjects/hermosa_ws/kernel_tools/
+/home/nfisher/intellisisProjects/hermosa_ws/kernel_tools/user_input/bmm/
+/home/nfisher/intellisisProjects/hermosa_ws/customer_benchmarks/Intellisis/cpusuite_v1.0/
+/home/nfisher/intellisisProjects/hermosa_ws/Intellisis/
+/home/nfisher/intellisisProjects/hermosa_ws/H1000_Sim_3513/src/h1ksim/
+/home/nfisher/intellisisProjects/hermosa_ws/kernel_tools/user_input/
+/home/nfisher/intellisisProjects/hermosa_ws/kernel_tools/ncc_assembler/msvs_version/src/
+/home/nfisher/intellisisProjects/hermosa_ws/H1000_Sim/src/h1ksim/socket/
+/home/nfisher/intellisisProjects/hermosa_ws/H1000_Sim_Clean/src/h1ksim/socket/
+/home/nfisher/intellisisProjects/hermosa_ws/H1000_Sim/src/
+/home/nfisher/intellisisProjects/hermosa_ws/H1000_Sim/
+[find]
+generate_ker_names_list
+gen_hex_file
+assembler_exe
+ncc
+.tasm
+.
+smart_parser
+kernel_name
+CLUSTER_EM
+dot_parser
+preprocess
+modify_assembly
+_expand_function
+fb_line_ll
+parse_file_to_blocks
+Function
+parse_functions
+_match_func_decl
+_match_function
+parse

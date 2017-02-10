@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE MODE SYSTEM "xmode.dtd">
+
+<!-- Trying to make a mode for cnx connection format -->
+
+<MODE>
+	<PROPS>
+		<PROPERTY NAME="unalignedOpenBrackets" VALUE="(" />
+		<PROPERTY NAME="unalignedCloseBrackets" VALUE=")" />
+		<PROPERTY NAME="unalignedOpenBrackets" VALUE="[" />
+		<PROPERTY NAME="unalignedCloseBrackets" VALUE="]" />
+	</PROPS>
+
+	<RULES
+		IGNORE_CASE="FALSE"
+		HIGHLIGHT_DIGITS="TRUE" DIGIT_RE="[0-9][0-9a-zA-Z]*">
+		<IMPORT DELEGATE="CORE"/>
+	</RULES>
+
+
+	<!-- Core cnx language -->
+	<RULES SET="CORE"
+		IGNORE_CASE="FALSE"
+		HIGHLIGHT_DIGITS="TRUE" DIGIT_RE="[0-9][0-9a-zA-Z]*">
+
+		<SEQ TYPE="OPERATOR">-></SEQ>
+		<SEQ TYPE="OPERATOR">;</SEQ>
+
+		<KEYWORDS>
+			<KEYWORD1>_o</KEYWORD1>
+			<KEYWORD2>scattergather</KEYWORD2>
+			<KEYWORD2>simp_kernel</KEYWORD2>
+		</KEYWORDS>
+	</RULES>
+
+
+</MODE>
+

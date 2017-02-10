@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1
+END
+cedet-build.el
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/cedet-build.el
+END
+PRERELEASE_CHECKLIST
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/PRERELEASE_CHECKLIST
+END
+cedet-update-version.el
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/cedet-update-version.el
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/INSTALL
+END
+USING_CEDET_FROM_BZR
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/USING_CEDET_FROM_BZR
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/NEWS
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/Makefile
+END

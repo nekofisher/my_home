@@ -1,0 +1,38 @@
+int[] lines = textArea.getSelectedLines();
+
+String file_name = buffer.getName();
+
+Mode m = buffer.getMode();
+
+String mode = m.getName();
+String comment = "#~";
+int	comment_length = 2;
+
+String eol_comment = "";
+boolean use_eol_comment = false;
+
+if(mode.equals("c++"))
+{
+	textArea.goToStartOfWhiteSpace(false);
+	textArea.goToEndOfWhiteSpace(true);
+	Registers.cut(textArea,'$');
+	textArea.setSelectedText("M_LOG_DEBUG << \"");
+	Registers.paste(textArea,'$',false);
+	textArea.setSelectedText(": \" << ");
+	Registers.paste(textArea,'$',false);
+ 	textArea.setSelectedText(";");
+}
+else if(mode.equals("python") || file_name.endsWith(".py"))
+{
+// 	textArea.goToStartOfWhiteSpace(false);
+//	   textArea.goToEndOfWhiteSpace(true);
+// 	Registers.cut(textArea,'$');
+// 	textArea.setSelectedText("print \"");
+// 	Registers.paste(textArea,'$',false);
+// 	textArea.setSelectedText(": \", ");
+// 	Registers.paste(textArea,'$',false);
+}
+
+
+
+//BeanShell.showEvaluateLinesDialog(view);

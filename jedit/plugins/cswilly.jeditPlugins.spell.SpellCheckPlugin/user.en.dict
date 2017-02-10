@@ -1,0 +1,10 @@
+# this is a user dictionary for the SpellCheck plugin,
+# keep the formatting of one word per line and everything should work
+.# comments are ignored and not re-created so beware...
+#:mode=text:encoding=UTF-8:
+Resynthesis
+chirplet
+chirplets
+chirptogram
+resynthesis
+resynthesize

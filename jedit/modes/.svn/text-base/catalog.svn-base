@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!DOCTYPE MODES SYSTEM "catalog.dtd">
+
+<MODES>
+	<MODE NAME="pythoncustom" FILE="python-custom.xml" FILE_NAME_GLOB="*.py" />
+	<MODE NAME="matlab" FILE="matlab.xml" FILE_NAME_GLOB="*.m" />
+	<MODE NAME="scala" FILE="scala.xml" FILE_NAME_GLOB="*.scala" />
+	<MODE NAME="c++" FILE="cplusplus-custom.xml" FILE_NAME_GLOB="*.{cc,cpp,h,hh,hpp,cxx,cu}"	/>
+	<MODE NAME="tasm" FILE="thls-custom.xml" FILE_NAME_GLOB="*.tasm" />
+	<MODE NAME="gsf" FILE="gsf-custom.xml" FILE_NAME_GLOB="*.gsf" />
+	<MODE NAME="thls" FILE="thls-custom.xml" FILE_NAME_GLOB="*.thls" />
+	<MODE NAME="fhex" FILE="fhex-custom.xml" FILE_NAME_GLOB="*.fhex" />
+</MODES>

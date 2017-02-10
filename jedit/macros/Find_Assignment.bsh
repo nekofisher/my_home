@@ -1,0 +1,19 @@
+
+str = textArea.getSelectedText();
+
+if(str == null || str.isEmpty())
+{
+	textArea.selectWord();
+	str = textArea.getSelectedText();
+}
+
+str += "[\\s]*=";
+
+SearchAndReplace.setSearchString(str);
+SearchAndReplace.setAutoWrapAround(false);
+SearchAndReplace.setReverseSearch(false);
+SearchAndReplace.setWholeWord(false);
+SearchAndReplace.setIgnoreCase(true);
+SearchAndReplace.setRegexp(true);
+SearchAndReplace.setSearchFileSet(new CurrentBufferSet());
+SearchAndReplace.hyperSearch(view,false);

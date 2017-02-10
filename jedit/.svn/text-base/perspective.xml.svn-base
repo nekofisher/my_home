@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE PERSPECTIVE SYSTEM "perspective.dtd">
+<PERSPECTIVE>
+<BUFFER AUTORELOAD="FALSE" AUTORELOAD_DIALOG="TRUE">/home/nfisher/intellisisProjects/hermosa_ws/H1000_Sim/kernel_tools/intermediate_representation/assembly_to_hex.py</BUFFER>
+<BUFFER AUTORELOAD="FALSE" AUTORELOAD_DIALOG="TRUE">/home/nfisher/intellisisProjects/hermosa_ws/H1000_Sim/kernel_tools/user_input/compile_script.py</BUFFER>
+<BUFFER AUTORELOAD="FALSE" AUTORELOAD_DIALOG="TRUE">/home/nfisher/intellisisProjects/hermosa_ws/H1000_Sim/src/h1ksim/H1000.h</BUFFER>
+<BUFFER AUTORELOAD="FALSE" AUTORELOAD_DIALOG="TRUE">/home/nfisher/intellisisProjects/hermosa_ws/H1000_Sim/kernel_tools/intermediate_representation/parse_intermediate_representation.py</BUFFER>
+<BUFFER AUTORELOAD="FALSE" AUTORELOAD_DIALOG="TRUE">/home/nfisher/intellisisProjects/hermosa_ws/H1000_Sim/kernel_tools/user_input/FFT/user_funcs.py</BUFFER>
+<BUFFER AUTORELOAD="FALSE" AUTORELOAD_DIALOG="TRUE">/home/nfisher/intellisisProjects/hermosa_ws/H1000_Sim/kernel_tools/user_input/Guppie/user_funcs.py</BUFFER>
+<VIEW PLAIN="FALSE">
+<PANES>
+"/home/nfisher/intellisisProjects/hermosa_ws/H1000_Sim/kernel_tools/intermediate_representation/assembly_to_hex.py" buffer "/home/nfisher/intellisisProjects/hermosa_ws/H1000_Sim/kernel_tools/intermediate_representation/assembly_to_hex.py" buff "/home/nfisher/intellisisProjects/hermosa_ws/H1000_Sim/kernel_tools/user_input/compile_script.py" buff "/home/nfisher/intellisisProjects/hermosa_ws/H1000_Sim/src/h1ksim/H1000.h" buff "/home/nfisher/intellisisProjects/hermosa_ws/H1000_Sim/kernel_tools/intermediate_representation/parse_intermediate_representation.py" buff "/home/nfisher/intellisisProjects/hermosa_ws/H1000_Sim/kernel_tools/user_input/FFT/user_funcs.py" buff "/home/nfisher/intellisisProjects/hermosa_ws/H1000_Sim/kernel_tools/user_input/Guppie/user_funcs.py" buff "global" bufferset "/home/nfisher/intellisisProjects/hermosa_ws/H1000_Sim/kernel_tools/intermediate_representation/parse_intermediate_representation.py" buffer "/home/nfisher/intellisisProjects/hermosa_ws/H1000_Sim/kernel_tools/intermediate_representation/assembly_to_hex.py" buff "/home/nfisher/intellisisProjects/hermosa_ws/H1000_Sim/kernel_tools/user_input/compile_script.py" buff "/home/nfisher/intellisisProjects/hermosa_ws/H1000_Sim/src/h1ksim/H1000.h" buff "/home/nfisher/intellisisProjects/hermosa_ws/H1000_Sim/kernel_tools/intermediate_representation/parse_intermediate_representation.py" buff "/home/nfisher/intellisisProjects/hermosa_ws/H1000_Sim/kernel_tools/user_input/FFT/user_funcs.py" buff "/home/nfisher/intellisisProjects/hermosa_ws/H1000_Sim/kernel_tools/user_input/Guppie/user_funcs.py" buff "global" bufferset 796 horizontal
+</PANES>
+<GEOMETRY X="89" Y="254" WIDTH="1766" HEIGHT="637" EXT_STATE="6" />
+</VIEW>
+</PERSPECTIVE>

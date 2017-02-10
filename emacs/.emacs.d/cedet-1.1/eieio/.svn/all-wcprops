@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/eieio
+END
+eieio-comp.el
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/eieio/eieio-comp.el
+END
+eieio.el
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/eieio/eieio.el
+END
+eieio-opt.elc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/eieio/eieio-opt.elc
+END
+eieio-doc.el
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/eieio/eieio-doc.el
+END
+eieio-doc.elc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/eieio/eieio-doc.elc
+END
+eieio-test-methodinvoke.el
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/eieio/eieio-test-methodinvoke.el
+END
+eieio-test-mro.el
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/eieio/eieio-test-mro.el
+END
+eieio-base.el
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/eieio/eieio-base.el
+END
+eieio-custom.el
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/eieio/eieio-custom.el
+END
+Project.ede
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/eieio/Project.ede
+END
+eieio.texi
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/eieio/eieio.texi
+END
+linemark.elc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/eieio/linemark.elc
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/eieio/INSTALL
+END
+examples-compile-script
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/eieio/examples-compile-script
+END
+eieio-loaddefs.el
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/eieio/eieio-loaddefs.el
+END
+eieio-datadebug.elc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/eieio/eieio-datadebug.elc
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/eieio/NEWS
+END
+eieio-speedbar.el
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/eieio/eieio-speedbar.el
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/eieio/Makefile
+END
+eieio-speedbar.elc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/eieio/eieio-speedbar.elc
+END
+lmcompile.el
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/eieio/lmcompile.el
+END
+eieio-compile-script
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/eieio/eieio-compile-script
+END
+lmcompile.elc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/eieio/lmcompile.elc
+END
+autoloads-compile-script
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/eieio/autoloads-compile-script
+END
+eieio-perftest.el
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/eieio/eieio-perftest.el
+END
+eieio.info
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/eieio/eieio.info
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/eieio/ChangeLog
+END
+eieio-comp.elc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/eieio/eieio-comp.elc
+END
+eieio-opt.el
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/eieio/eieio-opt.el
+END
+eieio-tests.el
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/eieio/eieio-tests.el
+END
+init-compile-script
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/eieio/init-compile-script
+END
+eieio.elc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/eieio/eieio.elc
+END
+eieio-test-persist.el
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/eieio/eieio-test-persist.el
+END
+chart.el
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/eieio/chart.el
+END
+linemark.el
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/eieio/linemark.el
+END
+chart.elc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/eieio/chart.elc
+END
+eieio-base.elc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/eieio/eieio-base.elc
+END
+eieio-custom.elc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/eieio/eieio-custom.elc
+END
+eieio-load.el
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/eieio/eieio-load.el
+END
+eieio-datadebug.el
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/eieio/eieio-datadebug.el
+END
+eieio-load.elc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/eieio/eieio-load.elc
+END

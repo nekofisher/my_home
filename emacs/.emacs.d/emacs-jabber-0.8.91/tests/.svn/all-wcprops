@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/tests
+END
+nick-change-fail.el
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/tests/nick-change-fail.el
+END
+history.el
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/tests/history.el
+END
+skip-tag-forward.el
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/tests/skip-tag-forward.el
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/tests/Makefile.in
+END
+load-all.el
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/tests/load-all.el
+END
+jabberd.el
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/tests/jabberd.el
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/tests/Makefile.am
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/tests/Makefile
+END

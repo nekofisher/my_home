@@ -1,0 +1,168 @@
+#!/usr/local/python2.7/bin/python2.7
+
+import datetime
+import sys
+
+from optparse import OptionParser
+
+import matplotlib
+from matplotlib import pylab
+
+from pyspecgram import *
+
+from Nsound import *
+
+parser = OptionParser( usage = \
+	"resample [options] input.wav")
+
+parser.add_option(
+	"--latex",
+	dest = "USE_LATEX",
+	default = False,
+	metavar = "FLAG",
+	action = "store_true",
+#~	type = "bool",
+	help = "Enables LaTeX in title"
+	)
+
+parser.add_option(
+	"--mag",
+	dest = "USE_DB",
+	default = True,
+	metavar = "FLAG",
+	action = "store_false",
+	help = "Don't convert the spectrogram to dB"
+	)
+
+parser.add_option(
+	"--squash",
+	dest = "SQUASH",
+	default = None,
+	metavar = "SCALAR",
+	type = "float",
+	help = "Don't convert the spectrogram to dB, do power**squash instead"
+	)
+
+parser.add_option(
+	"--fmax",
+	dest = "FMAX",
+	default = None,
+	metavar = "FREQ",
+	type = "float",
+	help = "Sets the yaxis max value"
+	)
+
+parser.add_option(
+	"--n",
+	dest = "N_FFT",
+	default = 512,
+	metavar = "N",
+	type = "int",
+	help = "Sets the FFT size to perform"
+	)
+
+parser.add_option(
+	"--overlap",
+	dest = "N_OVERLAP",
+	default = 500,
+	metavar = "N",
+	type = "int",
+	help = "Sets the FFT overlap size"
+	)
+
+parser.add_option(
+	"--title",
+	dest = "TITLE",
+	default = None,
+	metavar = "TITLE",
+	type = "string",
+	help = "Sets the target sample rate"
+	)
+
+parser.add_option(
+	"--tstart",
+	dest = "TSTART",
+	default = None,
+	metavar = "SEC",
+	type = "float",
+	help = "Use SEC as the start time to skip into the file"
+	)
+
+parser.add_option(
+	"--tstop",
+	dest = "TSTOP",
+	default = None,
+	metavar = "SEC",
+	type = "float",
+	help = "Use SEC as the stop time to stop before the end"
+	)
+
+(options, argv) = parser.parse_args()
+
+if len(argv) != 1:
+	raise RuntimeError("expecting at least 1 argument")
+
+if options.USE_LATEX:
+	matplotlib.rc('text', usetex=True)
+	matplotlib.rc('font', family='serif')
+
+start = datetime.datetime.now()
+
+a1 = AudioStream(argv[0])
+
+sample_rate = a1.getSampleRate()
+duration    = a1.getDuration()
+
+tstart = 0.0
+
+if options.TSTART != None:
+	tstart = options.TSTART
+
+if tstart < 0.0:
+	tstart = 0.0
+
+tstop = duration
+if options.TSTOP != None:
+	tstop = options.TSTOP
+
+if tstop > duration:
+	tstop = duration
+
+if tstart >= tstop:
+	raise ValueError("tstart >= tstop (%f >= %f)" %(tstart, tstop))
+
+a1 = a1.substream(tstart, tstop - tstart)
+
+buf = a1.getMono()[0]
+
+b = buf.toList()
+
+del(buf)
+
+w, h = matplotlib.figure.figaspect(1.0/2.0)
+
+ymax = sample_rate / 2.0
+
+if options.FMAX != None:
+	ymax = options.FMAX
+
+fig = pylab.figure(figsize=(w,h))
+pyspecgram(b, n=options.N_FFT, Fs=a1.getSampleRate(),
+	overlap=options.N_OVERLAP,
+	ylim = (0.0, ymax),
+#~	cmap = pylab.cm.gray_r,
+	use_db = options.USE_DB,
+	squash = options.SQUASH)
+
+#~pylab.clim([-100, 0.0])
+
+pylab.grid(True)
+
+if options.TITLE == None:
+	pylab.title(argv[0])
+
+else:
+	pylab.title(options.TITLE)
+
+pylab.show()
+

@@ -1,0 +1,45 @@
+<?xml version="1.1" encoding="UTF-8" ?>
+<!DOCTYPE KILLRING SYSTEM "killring.dtd">
+<KILLRING>
+<ENTRY>A dictionary which maps immediate variables to their values</ENTRY>
+<ENTRY>The </ENTRY>
+<ENTRY>c</ENTRY>
+<ENTRY>	try:
+		shuffle_kickoff = uc.SHUFFLE_KICKOFF
+	except:
+		pass
+</ENTRY>
+<ENTRY>i</ENTRY>
+<ENTRY>
+from intermediate_representation.Line import Line</ENTRY>
+<ENTRY>
+import intermediate_representation.smart_parser as sp</ENTRY>
+<ENTRY>smart_parser</ENTRY>
+<ENTRY># Check if we are on a windows box (msvs build)</ENTRY>
+<ENTRY>
+import shlex</ENTRY>
+<ENTRY># The below screwed up ipython, so lets go back to the original
+# 		cmd = '%s %s' % (assembler_exe, kernel_file)
+
+# 		commands = shlex.split(cmd)
+
+
+# 		try:
+# 			subprocess.check_call(
+# 				commands,
+# # 				stdout = subprocess.PIPE,
+# # 				stderr = subprocess.PIPE,
+# 				)
+
+# 		except subprocess.CalledProcessError:
+# 			raise RuntimeError("Failed to execute: %s" % cmd)</ENTRY>
+<ENTRY># Don't change...</ENTRY>
+<ENTRY>.</ENTRY>
+<ENTRY>kernel_file</ENTRY>
+<ENTRY>ker_names_list</ENTRY>
+<ENTRY>import ipdb; ipdb.set_trace()</ENTRY>
+<ENTRY>__</ENTRY>
+<ENTRY>print "ker_names_list: ", ker_names_list</ENTRY>
+<ENTRY>print "kernel_file: ", kernel_file</ENTRY>
+<ENTRY>list_file = os.path.join(usr_directory, assembly_pre + kernel_name + '.tlst')</ENTRY>
+</KILLRING>

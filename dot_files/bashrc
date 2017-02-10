@@ -1,0 +1,109 @@
+# .bashrc
+
+# Source global definitions
+if [ -f /etc/bashrc ]; then
+	. /etc/bashrc
+fi
+
+# Source global definitions
+if [ -f /etc/profile ]; then
+    . /etc/profile
+fi
+
+
+# Global SLaMS config
+if [ -f /shared/slams/.bashrc_group ]; then
+    . /shared/slams/.bashrc_group
+fi
+
+export PATH=~/bin:/usr/local/python/bin:~/.local/bin:/usr/local/programs/bin:/usr/local/cuda/bin:/opt/sge/bin/lx-amd64/:$PATH
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/cuda/lib64:/usr/local/python/lib
+export CUDA_SDK=/NVIDIA_CUDA_SDK
+export PKG_CONFIG_PATH=/usr/local/lib/pkgconfig
+export SVN_EDITOR='emacs'
+export CPLUS_INCLUDE_PATH=$CPLUS_INCLUDE_PATH
+export SVN_MERGE=~/bin/svn-merge-meld
+#export PS1='\[\e[36m\]\u\[\e[0m\]::\[\e[32m\]\h\[\e[0m\] \[\e[33;1m\]\w\[\e[0m\]\n\! \[\e[31m\]$\[\e[0m\] \[\e]2;\W\a\]'
+#export JAVA_HOME=/usr/local/jre1.7.0_01/
+export JAVA_HOME=/usr/
+export LC_CTYPE=C
+
+# Try to get boost logging working with files
+export LANG=en_US.utf8
+export GDM_LANG=en_US.utf8
+
+# Remove duplicates from BASH history
+export HISTCONTROL=erasedups
+
+# Stupid parallelization
+export OMP_NUM_THREADS=1
+
+# User specific aliases and functions
+alias ipython='ipython --no-banner --no-confirm-exit --pdb'
+alias meld="/usr/bin/python /usr/bin/meld"
+alias svnid='svn propset svn:keywords "Id"'
+alias svndiff="svn diff --diff-cmd=/home/nfisher/bin/svn-diff-meld"
+alias ls='ls --color=auto'
+#alias svnstatus="svn st --ignore-externals"
+alias svnstatus="/home/nfisher/bin/svn_status_reduce"
+alias sgesub="python /home/nfisher/bin/sgeSubmit.py"
+alias pdb="python -m pdb"
+alias qt_designer="/usr/local/python/bin/designer"
+alias plint="pylint -d W -d C -d F"
+alias svnupdry="svn merge --dry-run -r BASE:HEAD ."
+alias jedit="xrdb -merge ~/.Xdefaults; jedit -reuseview"
+alias gitinfo="git remote show origin | head"
+alias audiopin_api="/usr/local/python/bin/python /home/nfisher/code/viva/runscripts/products/viva_server/audiopin_api.py --credentials_dir /home/nfisher/code/data/viva/.credentials --hostname 0.0.0.0 --ssl_cert /home/nfisher/code/data/nginx/certs/self_gen_nginx.crt --ssl_key /home/nfisher/code/data/nginx/certs/self_gen_nginx.key"
+alias audiopin_engine="/usr/local/python/bin/python /home/nfisher/code/viva/runscripts/products/viva_server/audiopin_engine.py --credentials_dir /home/nfisher/code/data/viva/.credentials"
+alias audiopin_phone="/usr/local/python/bin/python /home/nfisher/code/viva/runscripts/products/viva_server/audiopin_phone.py --credentials_dir /home/nfisher/code/data/viva/.credentials"
+alias slams_api="/usr/local/python/bin/python /home/nfisher/code/viva/runscripts/products/viva_server/slams_api.py --credentials_dir /home/nfisher/code/data/viva/.credentials --hostname 0.0.0.0 --ssl_cert /home/nfisher/code/data/nginx/certs/self_gen_nginx.crt --ssl_key /home/nfisher/code/data/nginx/certs/self_gen_nginx.key"
+alias slams_engine="/usr/local/python/bin/python /home/nfisher/code/viva/runscripts/products/viva_server/slams_engine.py --credentials_dir /home/nfisher/code/data/viva/.credentials"
+alias slams_phone="/usr/local/python/bin/python /home/nfisher/code/viva/runscripts/products/viva_server/slams_phone.py --credentials_dir /home/nfisher/code/data/viva/.credentials"
+
+[[ -s "$HOME/bin/git-completion.bash" ]] && source "$HOME/bin/git-completion.bash"
+[[ -s "$HOME/bin/ps1_functions" ]] && source "$HOME/bin/ps1_functions"
+ps1_set
+
+
+tailsge()
+{
+        log="$*"
+
+        host=(`grep "SGE Host:" "$log"`)
+
+        n_tokens=${#host}
+
+        echo "${host[@]}"
+
+        host=${host[$((n_tokens - 1))]}
+
+        echo "host = $host"
+
+        ssh $host -t "tail -f '$log'"
+}
+
+
+locate_files() { find ./ -name "$@" -print;}
+
+locate_text() { grep -r -i "$@" ./;}
+
+
+remove_files()
+{
+    printf "\n\n"
+    echo "Are you sure you want to remove $@(YES)?"
+    read answer
+    echo "Your response was: $answer"
+
+    if [ "$answer" = "YES" ] ; then
+        find . -name "$@" -print0 | xargs -0 rm -rf --
+    else
+        echo "You must enter YES to proceed"
+        return 0
+
+    fi
+
+}
+
+
+# source ~/.autoenv/activate.sh

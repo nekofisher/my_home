@@ -1,0 +1,23 @@
+#!/usr/bin/env /usr/local/python/bin/python
+
+import sys
+import json
+from pprint import pprint
+
+if len(sys.argv) != 2:
+    print "Usage: print_pkl <pickle file>"
+    sys.exit(1)
+
+
+
+fn = sys.argv[1]
+
+with open(fn) as outfile:
+    res = json.load(outfile)
+
+
+print "\n\n"
+print "#" * 80
+pprint(res)
+print "#" * 80
+print "\n\n"

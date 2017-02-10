@@ -1,0 +1,923 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91
+END
+jabber-ping.elc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-ping.elc
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/AUTHORS
+END
+jabber-awesome.elc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-awesome.elc
+END
+jabber-watch.el
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-watch.el
+END
+jabber-keepalive.elc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-keepalive.elc
+END
+jabber-wmii.elc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-wmii.elc
+END
+jabber-socks5.elc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-socks5.elc
+END
+jabber-chatbuffer.elc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-chatbuffer.elc
+END
+jabber-xmessage.el
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-xmessage.el
+END
+jabber-newdisco.elc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-newdisco.elc
+END
+jabber-logon.el
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-logon.el
+END
+jabber-si-server.el
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-si-server.el
+END
+jabber-muc-nick-completion.elc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-muc-nick-completion.elc
+END
+jabber-festival.elc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-festival.elc
+END
+jabber-util.elc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-util.elc
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/configure.ac
+END
+jabber-libnotify.elc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-libnotify.elc
+END
+jabber-history.elc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-history.elc
+END
+jabber-menu.el
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-menu.el
+END
+config.status
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/config.status
+END
+jabber-events.elc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-events.elc
+END
+jabber-sawfish.elc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-sawfish.elc
+END
+jabber-search.elc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-search.elc
+END
+jabber-chatbuffer.el
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-chatbuffer.el
+END
+jabber-roster.el
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-roster.el
+END
+jabber-ourversion.el.in
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-ourversion.el.in
+END
+jabber-avatar.elc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-avatar.elc
+END
+jabber-chat.elc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-chat.elc
+END
+jabber-widget.el
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-widget.el
+END
+jabber-muc-nick-coloring.elc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-muc-nick-coloring.elc
+END
+jabber-truncate.elc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-truncate.elc
+END
+jabber-ft-client.elc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-ft-client.elc
+END
+jabber-keymap.elc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-keymap.elc
+END
+srv.elc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/srv.elc
+END
+jabber-ahc.el
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-ahc.el
+END
+jabber-ahc-presence.el
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-ahc-presence.el
+END
+jabber-conn.el
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-conn.el
+END
+jabber.info
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber.info
+END
+jabber-awesome.el
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-awesome.el
+END
+jabber-history.el
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-history.el
+END
+jabber-sasl.el
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-sasl.el
+END
+config.log
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/config.log
+END
+elc-stamp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/elc-stamp
+END
+jabber-presence.el
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-presence.el
+END
+jabber-disco.elc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-disco.elc
+END
+jabber-sasl.elc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-sasl.elc
+END
+jabber-compose.el
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-compose.el
+END
+jabber-alert.elc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-alert.elc
+END
+jabber-ourversion.el
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-ourversion.el
+END
+jabber-xmessage.elc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-xmessage.elc
+END
+jabber-ft-server.elc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-ft-server.elc
+END
+jabber-muc.el
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-muc.el
+END
+jabber-widget.elc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-widget.elc
+END
+jabber-osd.elc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-osd.elc
+END
+jabber-version.elc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-version.elc
+END
+jabber-ahc.elc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-ahc.elc
+END
+jabber-time.el
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-time.el
+END
+jabber-disco.el
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-disco.el
+END
+jabber-vcard-avatars.elc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-vcard-avatars.elc
+END
+jabber-vcard.elc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-vcard.elc
+END
+jabber.el
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber.el
+END
+jabber-ft-common.elc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-ft-common.elc
+END
+jabber-xml.elc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-xml.elc
+END
+jabber.elc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber.elc
+END
+jabber-menu.elc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-menu.elc
+END
+jabber-socks5.el
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-socks5.el
+END
+jabber.texi
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber.texi
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/README
+END
+jabber-ourversion.elc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-ourversion.elc
+END
+jabber-ratpoison.el
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-ratpoison.el
+END
+jabber-muc-nick-coloring.el
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-muc-nick-coloring.el
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/Makefile.am
+END
+jabber-bookmarks.elc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-bookmarks.elc
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/aclocal.m4
+END
+jabber-gmail.elc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-gmail.elc
+END
+jabber-modeline.el
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-modeline.el
+END
+jabber-libnotify.el
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-libnotify.el
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/Makefile.in
+END
+fsm.el
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/fsm.el
+END
+fsm.elc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/fsm.elc
+END
+jabber-presence.elc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-presence.elc
+END
+jabber-watch.elc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-watch.elc
+END
+jabber-iq.elc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-iq.elc
+END
+jabber-chat.el
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-chat.el
+END
+jabber-logon.elc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-logon.elc
+END
+jabber-screen.elc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-screen.elc
+END
+jabber-register.el
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-register.el
+END
+srv.el
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/srv.el
+END
+jabber-muc.elc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-muc.elc
+END
+jabber-gmail.el
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-gmail.el
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/NEWS
+END
+jabber-autoaway.el
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-autoaway.el
+END
+jabber-si-client.elc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-si-client.elc
+END
+jabber-core.elc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-core.elc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/Makefile
+END
+jabber-activity.el
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-activity.el
+END
+jabber-autoaway.elc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-autoaway.elc
+END
+jabber-ping.el
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-ping.el
+END
+jabber-xml.el
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-xml.el
+END
+jabber-conn.elc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-conn.elc
+END
+jabber-ahc-presence.elc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-ahc-presence.elc
+END
+jabber-browse.elc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-browse.elc
+END
+jabber-wmii.el
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-wmii.el
+END
+jabber-keepalive.el
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-keepalive.el
+END
+jabber-alert.el
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-alert.el
+END
+jabber-compose.elc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-compose.elc
+END
+jabber-iq.el
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-iq.el
+END
+jabber-private.el
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-private.el
+END
+jabber-util.el
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-util.el
+END
+jabber-festival.el
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-festival.el
+END
+jabber-muc-nick-completion.el
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-muc-nick-completion.el
+END
+jabber-private.elc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-private.elc
+END
+jabber-avatar.el
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-avatar.el
+END
+jabber-roster.elc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-roster.elc
+END
+jabber-si-server.elc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-si-server.elc
+END
+jabber-keymap.el
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-keymap.el
+END
+jabber-bookmarks.el
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-bookmarks.el
+END
+jabber-vcard.el
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-vcard.el
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/configure
+END
+hexrgb.elc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/hexrgb.elc
+END
+jabber-ft-common.el
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-ft-common.el
+END
+jabber-modeline.elc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-modeline.elc
+END
+jabber-browse.el
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-browse.el
+END
+jabber-chatstates.el
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-chatstates.el
+END
+jabber-si-common.elc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-si-common.elc
+END
+jabber-search.el
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-search.el
+END
+jabber-export.elc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-export.elc
+END
+jabber-ft-client.el
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-ft-client.el
+END
+jabber-truncate.el
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-truncate.el
+END
+jabber-pkg.el.in
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-pkg.el.in
+END
+jabber-register.elc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-register.elc
+END
+jabber-core.el
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-core.el
+END
+jabber-vcard-avatars.el
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-vcard-avatars.el
+END
+jabber-activity.elc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-activity.elc
+END
+jabber-si-common.el
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-si-common.el
+END
+emacs-jabber-uri-handler
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/emacs-jabber-uri-handler
+END
+jabber-time.elc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-time.elc
+END
+jabber-console.el
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-console.el
+END
+jabber-feature-neg.el
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-feature-neg.el
+END
+jabber-sawfish.el
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-sawfish.el
+END
+jabber-events.el
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-events.el
+END
+jabber-console.elc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-console.elc
+END
+jabber-feature-neg.elc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-feature-neg.elc
+END
+jabber-chatstates.elc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-chatstates.elc
+END
+jabber-newdisco.el
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-newdisco.el
+END
+jabber-ft-server.el
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-ft-server.el
+END
+jabber-screen.el
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-screen.el
+END
+jabber-ratpoison.elc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-ratpoison.elc
+END
+jabber-export.el
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-export.el
+END
+jabber-osd.el
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-osd.el
+END
+jabber-version.el
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-version.el
+END
+jabber-si-client.el
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-si-client.el
+END
+jabber-autoloads.el
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/emacs-jabber-0.8.91/jabber-autoloads.el
+END

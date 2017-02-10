@@ -1,0 +1,153 @@
+[search.directory]
+/home/nfisher/code/slams/
+/home/nfisher/code/slams/utilities/sge_testing
+/home.remote/nfisher/code/viva/utilities/sge_testing
+/home.remote/nfisher/code/viva/system_tests/nightly/viva_audiopin_functional_tests
+/home.remote/nfisher/code/viva/
+/home.remote/nfisher/code/viva/utilities/sge_testing/
+/home/nfisher/code
+/home/nfisher/code/slams_v2/src/core/utilities/system/sge/
+/home/nfisher/code/slams_v2/src
+/home/nfisher/code/slams_v2/
+/home/nfisher/code/slams_v2/src/core/
+/home/nfisher/code/slams_v2/slams_worker/
+/home/nfisher/code/slams_v2
+/home/nfisher/code/slams_v2/api/
+/home/nfisher/code/slams
+/home/nfisher/code/slams_v2/slams_system_tests/
+/home/nfisher/code/slams_v2/core/
+/home/nfisher/code/slams_install/pyinstaller/
+/home/nfisher/code/slams_v2/text_dependent_worker/
+/home/nfisher/code/slams_v2/api_client/
+[vfs.browser.path]
+/home/nfisher/code/slams/utilities/sge_testing
+/home/nfisher/code/slams/utilities
+/home/nfisher/code/slams
+/home.remote/nfisher/code/slams/utilities/sge_testing
+/home.remote/nfisher/code/slams/utilities
+/home.remote/nfisher/code/slams
+/home.remote/nfisher/code/slams/uti
+/home/nfisher/code/slams/audiotools/components/segmenters
+/home/nfisher/code/slams/audiotools/tests
+/home.remote/nfisher/code/viva/utilities/sge_testing
+/home.remote/nfisher/code/viva/utilities
+/home.remote/nfisher/code/viva
+/home.remote/nfisher/code/slams_install/pyinstaller
+/home.remote/nfisher/code/slams_install
+/home.remote/nfisher/code/slams_install/pyinstaller/slams_api
+/home.remote/nfisher/code
+/home.remote/nfisher/code/viva/system_tests/nightly/pbx_functional_tests
+/home.remote/nfisher/code/viva/system_tests/nightly
+/home.remote/nfisher/code/viva/system_tests/nightly/viva_audiopin_functional_tests
+/home.remote/nfisher/code/viva/system_tests
+[helpviewer.search]
+line wrapping
+[find]
+basic_tone
+alpha
+test_dc
+start
+append
+detect_win_size
+last_audio_offset
++ 1
+inx
+min_silence_dur
+min_segment_dur
+timeout
+xxxxxxxxx
+fileset
+convert_test_list_to_fileset
+pytest_
+_to_path
+get_test_info
+get_test_ifno
+test_name
+[replace]
+STREAMING_INDEX_TO_SECONDS_CONVERSION
+INDEX_TO_SECONDS_CONVERSION
+ZerosToneSegmenter
+TD_WORKER_DIR
+SCRIPT_DIR
+API_DIR
+BUILD_DIR
+slams_worker.slams_worker_tools
+slams_worker.run_slams_worker.slams_worker_tools
+slams_worker.run_slams_worker.
+slams_v2_dir
+float(\'nan\')
+/shared/slams/v1_test_files/
+all_files
+train_group
+lib.analyzer
+ lib.analyzer.
+lib
+/shared/slams
+\\\"
+[search.filter]
+*.py
+*
+*.sh
+*.spec
+*.sh|*.py|*.spec
+*.sh|*.py
+SCon*
+*.html|*.js
+*.js|*.html
+*.js
+*.py|*.js
+*.cc
+*.py|*.cpp|*.h|*.i|*.cc|*.cu|scon*
+*.py|*.cpp|*.h|*.i|*.cc|*.cu
+*.py|*.cpp|*.h|*.i|*.cc
+*.py|*.cpp|*.h|*.i
+*.py|*.cpp|*.h
+SC*
+SC
+*.cpp|*.h
+[vfs.browser.filter]
+*\[^~#\]
+*\[^~#\].fit
+*\[^~#\].vhd
+[action]
+save
+delete
+backspace
+insert-newline-indent
+end
+LineComment
+select-next-line
+prev-line
+next-line
+find-next
+openit.find-file-in-source-path
+find
+home
+select-end
+select-prev-line
+undo
+remove_break_point
+VariablePrint
+complete-word
+insert-tab-indent
+[clipboard]
+new_change_inx
+change_inx
+print \"change_inx: \", change_inx
+if change_inx\[0\] != change_inx\[1\] -1:\n                new_change_inx.append(change_inx\[0\])
+change_inx\[i+1\] - 1
+self.chicago = np.array(list(res\[\'samples\'\]) * 5) # Concatenate together to get more data
+samples\[8000:16000\].max()
+print \"region_max: \", region_max
+region_max
+self.silence_floor
+    def test_noise_floor_detection(self):\n        zs = ZerosSegmenter(detect_silence_floor = True)\n        res = self.process(1.0, 1.0, 2, noise_multiplier=1e-15, zs=zs)\n\n        ut.assert_lists_almost_equal(\n            res,\n             \[\n             {\'duration\': 1.0, \'start\': 0.0, \'stop\': 1.0},\n             {\'duration\': 1.0, \'start\': 2.0, \'stop\': 3.0}\n             \]\n        )\n
+test_noise_floor_detection
+ut.assert_lists_almost_equal(\n            res,\n             \[\n             {\'duration\': 1.0, \'start\': 0.0, \'stop\': 1.0},\n             {\'duration\': 1.0, \'start\': 2.0, \'stop\': 3.0}\n             \]\n        )
+res = self.process(1.0, 1.0, 2, noise_multiplier=1e-15, zs=zs)
+detect_silence_floor = True
+zs = ZerosSegmenter(silence_floor = 1e-13)
+test_noise_floor_specification
+ut.assert_lists_almost_equal(\n                res,\n                 \[\n                 {\'duration\': 1.0, \'start\': 0.0, \'stop\': 1.0},\n                 {\'duration\': 1.0, \'start\': 2.0, \'stop\': 3.0}\n                 \]\n            )\n
+res = self.process(1.0, 1.0, 2, noise_multiplier=1e-15)
+test_no_noise_floor_on_noise_signal

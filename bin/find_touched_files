@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# Runs the command specified and prints out all files touched while the process is running
+strace -ff -e trace=file "$@" 2>&1 | perl -ne 's/^[^"]+"(([^\\"]|\\[\\"nt])*)".*/$1/ && print'

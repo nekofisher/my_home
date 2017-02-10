@@ -1,0 +1,83 @@
+#!/usr/bin/env /usr/local/python/bin/python
+
+import os
+import sys
+from scipy.io.wavfile import read, write
+import tempfile
+import subprocess
+import numpy as np
+
+if len(sys.argv) != 2:
+    print "Usage: %s <pickle file>" % sys.argv[0]
+    sys.exit(1)
+
+
+inp = sys.argv[1]
+wav_file = None
+if inp.lower().endswith(".wav"):
+    wav_file = inp
+    truth_file = os.path.join(
+        os.path.dirname(inp),
+        "answers_0.txt"
+    )
+    id_file = os.path.join(
+        os.path.dirname(inp),
+        "id_map.txt"
+    )
+
+else:
+    for fn in os.listdir(inp):
+        if fn.lower().endswith(".wav"):
+            wav_file = os.path.join(inp, fn)
+            break
+    truth_file = os.path.join(inp, "answers_0.txt")
+    id_file = os.path.join(inp, "id_map.txt")
+
+
+if wav_file is None or not os.path.exists(wav_file):
+    raise ValueError("Could not find wav file: %s\n" % wav_file)
+
+sr, samples = read(wav_file)
+samples = samples[:, 0]
+
+
+with open(truth_file) as f:
+    data = f.readlines()
+
+truth_data = {}
+for line in data:
+    spk, start, stop = line.strip().split()
+    truth_data.setdefault(spk, [])
+    truth_data[spk].append((float(start), float(stop)))
+
+spkr = ''
+
+while spkr not in truth_data.keys():
+    spkr = raw_input("Which speaker to play: %s" % truth_data.keys())
+
+spk_id = None
+with open(id_file) as f:
+    data = f.readlines()
+
+    for line in data:
+        label, s_id = line.strip().split()
+        if label == spkr:
+            spk_id = s_id
+            break
+
+
+
+print ("Playing audio for speaker %s(%s)" % (spkr, spk_id))
+
+
+bv = np.zeros_like(samples, dtype=np.bool)
+
+for seg in truth_data[spkr]:
+    start_idx = int(round(seg[0] * sr))
+    end_indx = int(round(seg[1] * sr))
+    bv[start_idx:end_indx + 1] = True
+
+fn = tempfile.mktemp()
+write(fn, sr, samples[bv])
+subprocess.call(["aplay", fn])
+os.remove(fn)

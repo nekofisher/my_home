@@ -1,0 +1,82 @@
+//-----------------------------------------------------------------------------
+// Define the lines to paste into the file.
+
+String[] header =
+{
+	"",
+	"Copyright {YEAR}",
+	"The Intellisis Corporation",
+	"",
+	"All rights reserved.",
+	""
+};
+
+//-----------------------------------------------------------------------------
+// Grab the buffer mode, set prefix and flag
+
+String mode = buffer.getMode().getName();
+String file_name = buffer.getName();
+
+String  line_prefix = "";
+String  block_prefix = "";
+String  block_postfix = "";
+
+if(mode.equals("c") || mode.equals("c++") || mode.equals("beanshell"))
+{
+	block_prefix = "//-----------------------------------------------------------------------------";
+	block_postfix = block_prefix;
+	line_prefix = "// ";
+}
+
+else if(mode.equals("python") || file_name.endsWith(".py"))
+{
+	block_prefix = "\"\"\"";
+	block_postfix = block_prefix;
+	line_prefix = "";
+}
+
+else if(mode.equals("xml"))
+{
+	block_prefix  = "<!-----------------------------------------------------------------------------";
+	block_postfix = "------------------------------------------------------------------------------>";
+	line_prefix = "";
+}
+
+else
+{
+	block_prefix = "#------------------------------------------------------------------------------";
+	block_postfix = block_prefix;
+	line_prefix = "# ";
+}
+
+//-----------------------------------------------------------------------------
+// Grab the current year
+
+Calendar now = Calendar.getInstance();
+
+String year = Integer.toString(now.get(Calendar.YEAR));
+
+// Jump to the top of the File
+textArea.goToBufferStart(false);
+textArea.insertEnterAndIndent();
+textArea.goToBufferStart(false);
+
+//-----------------------------------------------------------------------------
+// Insert header
+
+textArea.setSelectedText(block_prefix);
+textArea.insertEnterAndIndent();
+
+for(int i = 0; i < header.length; ++i)
+{
+	String line = line_prefix + header[i];
+
+	// Search for the {YEAR} and replace it.
+	line = line.replace("{YEAR}", year);
+
+	textArea.setSelectedText(line);
+	textArea.insertEnterAndIndent();
+}
+
+textArea.setSelectedText(block_postfix);
+textArea.insertEnterAndIndent();

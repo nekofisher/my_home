@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/repos/!svn/ver/14846/users/nfisher/jedit/macros
+END
+Find_Functions.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/repos/!svn/ver/14954/users/nfisher/jedit/macros/Find_Functions.bsh
+END
+Find_Assignment.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/repos/!svn/ver/14954/users/nfisher/jedit/macros/Find_Assignment.bsh
+END
+LineComment.orig.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/repos/!svn/ver/14909/users/nfisher/jedit/macros/LineComment.orig.bsh
+END
+orig.LineComment.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/repos/!svn/ver/14934/users/nfisher/jedit/macros/orig.LineComment.bsh
+END
+LineComment.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/repos/!svn/ver/14971/users/nfisher/jedit/macros/LineComment.bsh
+END
+remove_break_point.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/repos/!svn/ver/14846/users/nfisher/jedit/macros/remove_break_point.bsh
+END
+Insert_Header.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repos/!svn/ver/14971/users/nfisher/jedit/macros/Insert_Header.bsh
+END
+insert_break_point.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/repos/!svn/ver/14846/users/nfisher/jedit/macros/insert_break_point.bsh
+END
+Find_Function.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repos/!svn/ver/14954/users/nfisher/jedit/macros/Find_Function.bsh
+END
+remove_break_point_pyqt.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/repos/!svn/ver/14934/users/nfisher/jedit/macros/remove_break_point_pyqt.bsh
+END
+VariableLog.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/repos/!svn/ver/14971/users/nfisher/jedit/macros/VariableLog.bsh
+END
+pylint.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/repos/!svn/ver/14971/users/nfisher/jedit/macros/pylint.py
+END
+Find_Classes.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/repos/!svn/ver/14954/users/nfisher/jedit/macros/Find_Classes.bsh
+END
+insert_break_point_pyqt.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/repos/!svn/ver/14934/users/nfisher/jedit/macros/insert_break_point_pyqt.bsh
+END
+Find_Calls.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/repos/!svn/ver/14954/users/nfisher/jedit/macros/Find_Calls.bsh
+END
+VariablePrint.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repos/!svn/ver/14971/users/nfisher/jedit/macros/VariablePrint.bsh
+END

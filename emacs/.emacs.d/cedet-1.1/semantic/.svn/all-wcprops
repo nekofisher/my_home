@@ -1,0 +1,941 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic
+END
+renamelist.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/renamelist.txt
+END
+semanticdb-cscope.el
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semanticdb-cscope.el
+END
+semanticdb-ref.el
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semanticdb-ref.el
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/AUTHORS
+END
+semantic-adebug.elc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-adebug.elc
+END
+semantic-lex.elc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-lex.elc
+END
+semanticdb-mode.elc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semanticdb-mode.elc
+END
+semantic.elc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic.elc
+END
+semantic-mru-bookmark.el
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-mru-bookmark.el
+END
+semantic-analyze.elc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-analyze.elc
+END
+semantic-decorate-mode.el
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-decorate-mode.el
+END
+semanticdb-global.elc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semanticdb-global.elc
+END
+OONEWS
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/OONEWS
+END
+semantic-tag.el
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-tag.el
+END
+semantic-idle.el
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-idle.el
+END
+semantic-find.elc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-find.elc
+END
+semantic-elp.elc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-elp.elc
+END
+semantic-ctxt.elc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-ctxt.elc
+END
+semantic-debug.el
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-debug.el
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/ChangeLog
+END
+semantic-ast.el
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-ast.el
+END
+semantic-fmt-utest.el
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-fmt-utest.el
+END
+semanticdb-find.elc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semanticdb-find.elc
+END
+semantic-decorate.elc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-decorate.elc
+END
+semantic-analyze-debug.elc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-analyze-debug.elc
+END
+semantic-lex-spp.elc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-lex-spp.elc
+END
+semanticdb-debug.el
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semanticdb-debug.el
+END
+Languages-compile-script
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/Languages-compile-script
+END
+semantic-ia-sb.elc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-ia-sb.elc
+END
+semanticdb-debug.elc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semanticdb-debug.elc
+END
+semantic-analyze.el
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-analyze.el
+END
+semantic-utest.el
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-utest.el
+END
+semantic-sb.el
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-sb.el
+END
+semantic-tag-write.elc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-tag-write.elc
+END
+semantic-utest.elc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-utest.elc
+END
+semantic-sb.elc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-sb.elc
+END
+senator.el
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/senator.el
+END
+semantic-texi.elc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-texi.elc
+END
+semantic-regtest.el
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-regtest.el
+END
+semantic-imenu.el
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-imenu.el
+END
+semantic-idle.elc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-idle.elc
+END
+semantic-edit.el
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-edit.el
+END
+semanticdb-file.el
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semanticdb-file.el
+END
+semantic-tag-ls.el
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-tag-ls.el
+END
+semantic-sort.el
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-sort.el
+END
+utils-compile-script
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/utils-compile-script
+END
+semanticdb-mode.el
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semanticdb-mode.el
+END
+semantic-ia-sb.el
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-ia-sb.el
+END
+semantic-analyze-refs.el
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-analyze-refs.el
+END
+semantic-chart.el
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-chart.el
+END
+semantic.el
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic.el
+END
+semantic-tag-write.el
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-tag-write.el
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/INSTALL
+END
+semantic-analyze-fcn.el
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-analyze-fcn.el
+END
+semanticdb-javap.el
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semanticdb-javap.el
+END
+semantic-mru-bookmark.elc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-mru-bookmark.elc
+END
+semantic-decorate-include.elc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-decorate-include.elc
+END
+semantic-complete.elc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-complete.elc
+END
+semanticdb.elc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semanticdb.elc
+END
+semantic-scope.elc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-scope.elc
+END
+semanticdb-javascript.el
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semanticdb-javascript.el
+END
+semantic-util.el
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-util.el
+END
+semanticdb-mk.el
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semanticdb-mk.el
+END
+semanticdb-javascript.elc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semanticdb-javascript.elc
+END
+semantic-load.el
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-load.el
+END
+semantic-m3.el
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-m3.el
+END
+semantic-imenu.elc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-imenu.elc
+END
+semantic-regtest.elc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-regtest.elc
+END
+semantic-ctxt.el
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-ctxt.el
+END
+semantic-util-modes.elc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-util-modes.elc
+END
+tools-compile-script
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/tools-compile-script
+END
+semanticdb-file.elc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semanticdb-file.elc
+END
+semantic-edit.elc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-edit.elc
+END
+semantic-tag-file.el
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-tag-file.el
+END
+semantic-debug.elc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-debug.elc
+END
+tests-compile-script
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/tests-compile-script
+END
+semantic-format.elc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-format.elc
+END
+ONEWS
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/ONEWS
+END
+semantic-ia.elc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-ia.elc
+END
+semanticdb-skel.el
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semanticdb-skel.el
+END
+semantic-dep.el
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-dep.el
+END
+semantic-analyze-complete.elc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-analyze-complete.elc
+END
+semantic-custom.elc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-custom.elc
+END
+Analyzer-compile-script
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/Analyzer-compile-script
+END
+semanticdb-typecache.elc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semanticdb-typecache.elc
+END
+semanticdb-mk.elc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semanticdb-mk.elc
+END
+semantic-util.elc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-util.elc
+END
+semantic-grammar-wy.elc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-grammar-wy.elc
+END
+semantic-grammar.el
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-grammar.el
+END
+semantic-lex.el
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-lex.el
+END
+semantic-ast.elc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-ast.elc
+END
+Database-compile-script
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/Database-compile-script
+END
+semantic-html.el
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-html.el
+END
+semantic-doc.el
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-doc.el
+END
+semantic-html.elc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-html.elc
+END
+semantic-texi.el
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-texi.el
+END
+semanticdb-typecache.el
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semanticdb-typecache.el
+END
+semantic-decorate-mode.elc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-decorate-mode.elc
+END
+semantic-fw.el
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-fw.el
+END
+semanticdb-ebrowse.el
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semanticdb-ebrowse.el
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/Makefile
+END
+semanticdb-search.elc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semanticdb-search.elc
+END
+semantic-fw.elc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-fw.elc
+END
+semanticdb-ebrowse.elc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semanticdb-ebrowse.elc
+END
+semantic-find.el
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-find.el
+END
+semantic-elp.el
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-elp.el
+END
+semantic-ede-grammar.el
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-ede-grammar.el
+END
+semanticdb.sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semanticdb.sh
+END
+semantic-util-modes.el
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-util-modes.el
+END
+semantic-grammar-wy.el
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-grammar-wy.el
+END
+semantic-adebug.el
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-adebug.el
+END
+semantic-lex-spp.el
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-lex-spp.el
+END
+semantic-sort.elc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-sort.elc
+END
+semantic-tag-ls.elc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-tag-ls.elc
+END
+semantic-fmt-utest.elc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-fmt-utest.elc
+END
+semantic-compile-script
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-compile-script
+END
+init-compile-script
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/init-compile-script
+END
+semanticdb-el.el
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semanticdb-el.el
+END
+semantic-doc.elc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-doc.elc
+END
+semantic-scope.el
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-scope.el
+END
+semanticdb-javap.elc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semanticdb-javap.elc
+END
+semantic-custom.el
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-custom.el
+END
+semantic-analyze-fcn.elc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-analyze-fcn.elc
+END
+semanticdb-search.el
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semanticdb-search.el
+END
+semantic-loaddefs.el
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-loaddefs.el
+END
+semantic-load.elc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-load.elc
+END
+semantic-m3.elc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-m3.elc
+END
+semanticdb-cscope.elc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semanticdb-cscope.elc
+END
+semanticdb-ref.elc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semanticdb-ref.elc
+END
+semantic-analyze-debug.el
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-analyze-debug.el
+END
+semantic-ia.el
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-ia.el
+END
+semantic-grammar.elc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-grammar.elc
+END
+semantic-example.el
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-example.el
+END
+semantic-ia-utest.elc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-ia-utest.elc
+END
+Project.ede
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/Project.ede
+END
+semantic-analyze-refs.elc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-analyze-refs.elc
+END
+semanticdb-global.el
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semanticdb-global.el
+END
+semantic-complete.el
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-complete.el
+END
+semanticdb.el
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semanticdb.el
+END
+semantic-analyze-complete.el
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-analyze-complete.el
+END
+autoloads-compile-script
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/autoloads-compile-script
+END
+semantic-utest-c.el
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-utest-c.el
+END
+semantic-grammar.wy
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-grammar.wy
+END
+semantic-decorate.el
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-decorate.el
+END
+semanticdb-find.el
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semanticdb-find.el
+END
+semantic-utest-c.elc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-utest-c.elc
+END
+semantic-format.el
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-format.el
+END
+semantic-tag-file.elc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-tag-file.elc
+END
+semantic-ia-utest.el
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-ia-utest.el
+END
+grammar-make-script
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/grammar-make-script
+END
+semantic-chart.elc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-chart.elc
+END
+semantic-decorate-include.el
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-decorate-include.el
+END
+semanticdb-el.elc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semanticdb-el.elc
+END
+semantic-dep.elc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-dep.elc
+END
+senator.elc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/senator.elc
+END
+semantic-tag.elc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/semantic/semantic-tag.elc
+END

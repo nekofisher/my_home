@@ -1,0 +1,176 @@
+int[] lines = textArea.getSelectedLines();
+
+String file_name = buffer.getName();
+
+Mode m = buffer.getMode();
+
+String mode = m.getName();
+
+// The comment that will be added is the first element of the array
+// Order matters here.  Make the standalone # the last one
+String[] pos_com = {"# ", "#~", "#"};
+int n_comments = 3;
+
+String eol_comment = "";
+boolean use_eol_comment = false;
+
+if(mode.equals("c") || mode.equals("c++"))
+{
+	pos_com[0] = "//~";
+	n_comments = 1;
+}
+else if(mode.equals("matlab") || file_name.endsWith(".m") || mode.equals("latex"))
+{
+	pos_com[0] = "%~";
+	n_comments = 1;
+}
+else if(mode.equals("rest"))
+{
+	pos_com[0] = ".. ~ ";
+	n_comments = 1;
+}
+else if(mode.equals("xml") || mode.equals("html"))
+{
+	pos_com[0] = "<!--~ ";
+	n_comments = 1;
+	eol_comment = "  ~-->"; // Make it 6 chars also!
+	use_eol_comment = true;
+}
+else if(file_name.endsWith(".thls"))
+{
+	pos_com[0] = ";~ ";
+	n_comments = 1;
+}
+
+
+
+// First go through and determine if we are commenting or uncommenting
+// If any nonempty line is uncommented, then we are considered to be commenting
+are_commenting = false;
+for(int i = 0; i < lines.length; ++i)
+{
+	line = lines[i];
+	index = line - lines[0];
+	start = buffer.getLineStartOffset(line);
+	end = buffer.getLineEndOffset(line);
+	text = buffer.getText(start,end - start - 1);
+	trimmed_text = text.trim();
+
+	// Ignore empty lines
+	if(text.length() == 0 || trimmed_text.length() == 0) continue;
+
+	boolean line_is_commented = false;
+	for(int zz = 0; zz < n_comments; zz++)
+	{
+		if(text.startsWith(pos_com[zz]) || trimmed_text.startsWith(pos_com[zz]))
+		{
+			line_is_commented = true;
+			break;
+		}
+	}
+
+	// If any line is uncommented,then we are considered to be commenting
+	if(!line_is_commented)
+	{
+		are_commenting = true;
+		break;
+	}
+}
+
+
+
+////////////////////////////////////////////////////////////////////////////////
+
+// Now that we know whether we are commenting or not, act accordingly
+
+
+for(int i = 0; i < lines.length; ++i)
+{
+	line = lines[i];
+	index = line - lines[0];
+	start = buffer.getLineStartOffset(line);
+	end = buffer.getLineEndOffset(line);
+	text = buffer.getText(start,end - start - 1);
+	trimmed_text = text.trim();
+
+	if(text.length() == 0) continue;
+
+	//newText = "WTF " + are_commenting;
+
+	///////////////////////////////////////////////////////////////////////////
+	// Special handeling, convert old C comments
+	if(text.startsWith("/*") && text.length() == 2)
+	{
+		newText = "//";
+	}
+	else if(text.startsWith(" * "))
+	{
+		newText = "// " + text.substring(3);
+	}
+	else if(text.startsWith(" */") && text.length() == 3)
+	{
+		newText = "//";
+	}
+	else if(text.startsWith("*/") && text.length() == 2)
+	{
+		newText = "//";
+	}
+	else if(false)
+	{
+		// Do nothing
+	}
+
+	else
+	{
+		// If we are commenting, go through and add the comment to the beginning of
+		// each line
+		if(are_commenting)
+		{
+			comment = pos_com[0];
+			if(use_eol_comment)
+			{
+				newText = comment + text + eol_comment;
+			}
+			else
+			{
+				newText = comment + text;
+			}
+		}
+
+		else
+		{
+			///////////////////////////////////////////////////////////////////////////
+			// Check if text line begins with comment text.
+			for(int zz = 0; zz < n_comments; zz++)
+			{
+				if(text.startsWith(pos_com[zz]))
+				{
+					int comment_length = pos_com[zz].length();
+					if(use_eol_comment)
+						newText = buffer.getText(start + comment_length, end - start - 2*comment_length - 1);
+					else
+					{
+						newText = buffer.getText(start + comment_length, end - start - comment_length - 1);
+					}
+					break;
+				}
+
+				else if(trimmed_text.startsWith(pos_com[zz]))
+				{
+					int comment_length = pos_com[zz].length();
+					int start_text = text.indexOf(pos_com[zz]);
+					newText = text.subSequence(0, start_text) +
+						text.subSequence(start_text + comment_length, text.length()) ;
+					break;
+				}
+			}
+		}//else ... uncommenting
+	}// non special handling
+	if(newText != null)
+	{
+		buffer.remove(start,end - start - 1);
+		buffer.insert(start,String.valueOf(newText));
+	}
+}//for
+
+//BeanShell.showEvaluateLinesDialog(view);

@@ -1,0 +1,581 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede
+END
+ede-speedbar.el
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-speedbar.el
+END
+ede-dired.el
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-dired.el
+END
+aux-lisp-compile-script
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/aux-lisp-compile-script
+END
+ede-projects.texi
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-projects.texi
+END
+ede-proj-info.elc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-proj-info.elc
+END
+ede-proj-aux.elc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-proj-aux.elc
+END
+ede-auto.elc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-auto.elc
+END
+ede-util.el
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-util.el
+END
+ede-generic.elc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-generic.elc
+END
+ede-load.el
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-load.el
+END
+ede-m3.el
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-m3.el
+END
+ede-android.el
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-android.el
+END
+ede-proj-obj.el
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-proj-obj.el
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/Makefile
+END
+ede-proj-elisp.el
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-proj-elisp.el
+END
+ede-proj-obj.elc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-proj-obj.elc
+END
+ede-srecode.elc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-srecode.elc
+END
+projects-compile-script
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/projects-compile-script
+END
+ede-dired.elc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-dired.elc
+END
+ede-compile-script
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-compile-script
+END
+ede-emacs.elc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-emacs.elc
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ChangeLog
+END
+ede.info
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede.info
+END
+ede-linux.el
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-linux.el
+END
+ede-pmake.elc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-pmake.elc
+END
+init-compile-script
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/init-compile-script
+END
+ede-files.el
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-files.el
+END
+ede-source.elc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-source.elc
+END
+ede-arduino.elc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-arduino.elc
+END
+autoconf-compat.el
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/autoconf-compat.el
+END
+ede-proj-aux.el
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-proj-aux.el
+END
+ede-files.elc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-files.elc
+END
+ede-compilers.texi
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-compilers.texi
+END
+autoconf-edit.el
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/autoconf-edit.el
+END
+ede-locate.el
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-locate.el
+END
+makefile-edit.elc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/makefile-edit.elc
+END
+autoconf-edit.elc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/autoconf-edit.elc
+END
+ede-base.el
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-base.el
+END
+ede-base.elc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-base.elc
+END
+ede-proj-scheme.elc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-proj-scheme.elc
+END
+ede-proj-prog.el
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-proj-prog.el
+END
+ede-targets.texi
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-targets.texi
+END
+ede-load.elc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-load.elc
+END
+ede-m3.elc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-m3.elc
+END
+ede-system.elc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-system.elc
+END
+ede-proj-archive.elc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-proj-archive.elc
+END
+ede-pmake.el
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-pmake.el
+END
+ede-arduino.el
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-arduino.el
+END
+ede.el
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede.el
+END
+ede-linux.elc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-linux.elc
+END
+ede-cpp-root.el
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-cpp-root.el
+END
+ede-proj-misc.el
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-proj-misc.el
+END
+ede-sourcecode.texi
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-sourcecode.texi
+END
+makefile-edit.el
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/makefile-edit.el
+END
+ede.elc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede.elc
+END
+ede-shell.el
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-shell.el
+END
+Project.ede
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/Project.ede
+END
+ede-auto.el
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-auto.el
+END
+ede-pconf.elc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-pconf.elc
+END
+ede-proj.el
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-proj.el
+END
+ede-locate.elc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-locate.elc
+END
+ede.texi
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede.texi
+END
+proj-project-compile-script
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/proj-project-compile-script
+END
+ede-generic.el
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-generic.el
+END
+ede-proj.elc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-proj.elc
+END
+ede-proj-shared.el
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-proj-shared.el
+END
+ede-make.elc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-make.elc
+END
+ede-proj-shared.elc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-proj-shared.elc
+END
+ede-proj-prog.elc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-proj-prog.elc
+END
+ede-android.elc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-android.elc
+END
+ede-srecode.el
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-srecode.el
+END
+ede-proj-elisp.elc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-proj-elisp.elc
+END
+ede-emacs.el
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-emacs.el
+END
+ede-speedbar.elc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-speedbar.elc
+END
+ede-proj-archive.el
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-proj-archive.el
+END
+autoloads-compile-script
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/autoloads-compile-script
+END
+ede-source.el
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-source.el
+END
+ede-proj-info.el
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-proj-info.el
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/README
+END
+ede-pconf.el
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-pconf.el
+END
+ede-proj-misc.elc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-proj-misc.elc
+END
+ede-proj-comp.el
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-proj-comp.el
+END
+ede-cpp-root.elc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-cpp-root.elc
+END
+ede-proj-skel.el
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-proj-skel.el
+END
+project-am.el
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/project-am.el
+END
+autoconf-compat.elc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/autoconf-compat.elc
+END
+ede-proj-comp.elc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-proj-comp.elc
+END
+project-am.elc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/project-am.elc
+END
+ede-custom.el
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-custom.el
+END
+ede-shell.elc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-shell.elc
+END
+ede-proj-scheme.el
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-proj-scheme.el
+END
+ede-make.el
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-make.el
+END
+ede-custom.elc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-custom.elc
+END
+ede-util.elc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-util.elc
+END
+ede-loaddefs.el
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-loaddefs.el
+END
+ede-system.el
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/repos/!svn/ver/14839/users/nfisher/emacs/.emacs.d/cedet-1.1/ede/ede-system.el
+END

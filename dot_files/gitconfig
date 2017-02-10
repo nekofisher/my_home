@@ -1,0 +1,17 @@
+[user]
+	name = Neko Fisher
+	email = nfisher@intellisis.com
+[core]
+	editor = emacs
+[merge]
+	tool = meld
+[color]
+	ui = true
+[diff]
+	external = /home/nfisher/bin/git-diff-meld.py
+[alias]
+	co = checkout
+	br = branch
+	comm = commit
+[push]
+	default = current

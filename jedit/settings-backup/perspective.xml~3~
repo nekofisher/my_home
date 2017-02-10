@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE PERSPECTIVE SYSTEM "perspective.dtd">
+<PERSPECTIVE>
+<BUFFER AUTORELOAD="FALSE" AUTORELOAD_DIALOG="TRUE">/home/nfisher/code/slams/audiotools/components/classifiers/base_classifier.py</BUFFER>
+<BUFFER AUTORELOAD="FALSE" AUTORELOAD_DIALOG="TRUE">/home/nfisher/code/slams/audiotools/systems/segrizifiers/base_segrizifier.py</BUFFER>
+<BUFFER AUTORELOAD="FALSE" AUTORELOAD_DIALOG="TRUE">/home/nfisher/code/slams/applications/utils/client_utils.py</BUFFER>
+<BUFFER AUTORELOAD="FALSE" AUTORELOAD_DIALOG="TRUE">/home/nfisher/code/slams/runscripts/products/accessories/clustering_tool/clustering_tool_client.py</BUFFER>
+<BUFFER AUTORELOAD="FALSE" AUTORELOAD_DIALOG="TRUE">/home/nfisher/code/slams/audiotools/components/classifiers/ivector_classifier.py</BUFFER>
+<BUFFER AUTORELOAD="FALSE" AUTORELOAD_DIALOG="TRUE">/home/nfisher/.intellisis/configs/other/ct_config/settings.py</BUFFER>
+<BUFFER AUTORELOAD="FALSE" AUTORELOAD_DIALOG="TRUE">/home/nfisher/code/slams/applications/slams_common.py</BUFFER>
+<BUFFER AUTORELOAD="FALSE" AUTORELOAD_DIALOG="TRUE">/home/nfisher/code/slams/applications/slams_engine.py</BUFFER>
+<BUFFER AUTORELOAD="FALSE" AUTORELOAD_DIALOG="TRUE">/home/nfisher/code/slams/applications/server/slams_http_client.py</BUFFER>
+<BUFFER AUTORELOAD="FALSE" AUTORELOAD_DIALOG="TRUE">/home/nfisher/bin/vpn_connect</BUFFER>
+<VIEW PLAIN="FALSE">
+<PANES>
+"/home/nfisher/code/slams/audiotools/systems/segrizifiers/base_segrizifier.py" buffer "/home/nfisher/code/slams/audiotools/components/classifiers/base_classifier.py" buff "/home/nfisher/code/slams/audiotools/systems/segrizifiers/base_segrizifier.py" buff "/home/nfisher/code/slams/applications/utils/client_utils.py" buff "/home/nfisher/code/slams/runscripts/products/accessories/clustering_tool/clustering_tool_client.py" buff "/home/nfisher/code/slams/audiotools/components/classifiers/ivector_classifier.py" buff "/home/nfisher/.intellisis/configs/other/ct_config/settings.py" buff "/home/nfisher/code/slams/applications/slams_common.py" buff "/home/nfisher/code/slams/applications/slams_engine.py" buff "/home/nfisher/code/slams/applications/server/slams_http_client.py" buff "/home/nfisher/bin/vpn_connect" buff "global" bufferset "/home/nfisher/code/slams/audiotools/components/classifiers/base_classifier.py" buffer "/home/nfisher/code/slams/audiotools/components/classifiers/base_classifier.py" buff "/home/nfisher/code/slams/audiotools/systems/segrizifiers/base_segrizifier.py" buff "/home/nfisher/code/slams/applications/utils/client_utils.py" buff "/home/nfisher/code/slams/runscripts/products/accessories/clustering_tool/clustering_tool_client.py" buff "/home/nfisher/code/slams/audiotools/components/classifiers/ivector_classifier.py" buff "/home/nfisher/.intellisis/configs/other/ct_config/settings.py" buff "/home/nfisher/code/slams/applications/slams_common.py" buff "/home/nfisher/code/slams/applications/slams_engine.py" buff "/home/nfisher/code/slams/applications/server/slams_http_client.py" buff "/home/nfisher/bin/vpn_connect" buff "global" bufferset 909 horizontal
+</PANES>
+<GEOMETRY X="423" Y="354" WIDTH="1920" HEIGHT="1056" EXT_STATE="0" />
+</VIEW>
+<VIEW PLAIN="TRUE">
+<PANES>
+"/home/nfisher/code/slams/audiotools/components/classifiers/base_classifier.py" buffer "/home/nfisher/code/slams/audiotools/components/classifiers/base_classifier.py" buff "/home/nfisher/code/slams/audiotools/systems/segrizifiers/base_segrizifier.py" buff "/home/nfisher/code/slams/applications/utils/client_utils.py" buff "/home/nfisher/code/slams/runscripts/products/accessories/clustering_tool/clustering_tool_client.py" buff "/home/nfisher/code/slams/audiotools/components/classifiers/ivector_classifier.py" buff "/home/nfisher/.intellisis/configs/other/ct_config/settings.py" buff "/home/nfisher/code/slams/applications/slams_common.py" buff "/home/nfisher/code/slams/applications/slams_engine.py" buff "/home/nfisher/code/slams/applications/server/slams_http_client.py" buff "/home/nfisher/bin/vpn_connect" buff "global" bufferset
+</PANES>
+<GEOMETRY X="371" Y="267" WIDTH="795" HEIGHT="551" EXT_STATE="0" />
+</VIEW>
+<VIEW PLAIN="FALSE">
+<PANES>
+"/home/nfisher/code/slams/audiotools/components/classifiers/base_classifier.py" buffer "/home/nfisher/code/slams/audiotools/components/classifiers/base_classifier.py" buff "/home/nfisher/code/slams/audiotools/systems/segrizifiers/base_segrizifier.py" buff "/home/nfisher/code/slams/applications/utils/client_utils.py" buff "/home/nfisher/code/slams/runscripts/products/accessories/clustering_tool/clustering_tool_client.py" buff "/home/nfisher/code/slams/audiotools/components/classifiers/ivector_classifier.py" buff "/home/nfisher/.intellisis/configs/other/ct_config/settings.py" buff "/home/nfisher/code/slams/applications/slams_common.py" buff "/home/nfisher/code/slams/applications/slams_engine.py" buff "/home/nfisher/code/slams/applications/server/slams_http_client.py" buff "/home/nfisher/bin/vpn_connect" buff "global" bufferset
+</PANES>
+<GEOMETRY X="648" Y="226" WIDTH="1920" HEIGHT="1056" EXT_STATE="0" />
+</VIEW>
+</PERSPECTIVE>

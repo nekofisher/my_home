@@ -1,0 +1,336 @@
+Log file created on Tue Feb 09 13:19:24 PST 2016
+IMPORTANT:
+Because updating this file after every log message would kill
+performance, it will be *incomplete* unless you invoke the
+Utilities->Troubleshooting->Update Activity Log on Disk command!
+1:19:24 PM [main] [message] Log: When reporting bugs, please include the following information:
+1:19:24 PM [main] [message] Log: java.version=1.8.0_45
+1:19:24 PM [main] [message] Log: java.vm.version=25.45-b02
+1:19:24 PM [main] [message] Log: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+1:19:24 PM [main] [message] Log: java.runtime.version=1.8.0_45-b14
+1:19:24 PM [main] [message] Log: java.runtime.name=Java(TM) SE Runtime Environment
+1:19:24 PM [main] [message] Log: java.vendor=Oracle Corporation
+1:19:24 PM [main] [message] Log: java.compiler=null
+1:19:24 PM [main] [message] Log: os.name=Linux
+1:19:24 PM [main] [message] Log: os.version=3.19.0-49-generic
+1:19:24 PM [main] [message] Log: os.arch=amd64
+1:19:24 PM [main] [message] Log: user.home=/home/nfisher
+1:19:24 PM [main] [message] Log: java.home=/opt/jdk1.8.0_45/jre
+1:19:24 PM [main] [message] Log: java.class.path=/usr/share/jedit/jedit.jar
+1:19:24 PM [main] [message] jEdit: starting with command line arguments: 
+1:19:24 PM [main] [debug] jEdit: before splash screen activation:156 ms
+1:19:24 PM [main] [debug] jEdit: after splash screen activation:343 ms
+1:19:24 PM [main] [debug] MiscUtilities: Saving backup of file "/home/nfisher/jedit/activity.log" to "/home/nfisher/jedit/settings-backup/activity.log~1~"
+1:19:24 PM [main] [notice] jEdit: jEdit version 5.1.0
+1:19:24 PM [main] [message] jEdit: Settings directory is /home/nfisher/jedit
+1:19:24 PM [main] [message] jEdit: jEdit home directory is /usr/share/jedit
+1:19:24 PM [main] [debug] SplashScreen: init:38/219ms
+1:19:24 PM [main] [debug] SplashScreen: init system properties:26/245ms
+1:19:24 PM [main] [message] BeanShell: Beanshell Init
+1:19:24 PM [main] [debug] SplashScreen: init beanshell:42/287ms
+1:19:24 PM [main] [debug] SplashScreen: loading site properties:2/289ms
+1:19:24 PM [main] [debug] SplashScreen: loading user properties:4/293ms
+1:19:24 PM [main] [debug] GUIUtilities: Icon theme set to: tango
+1:19:24 PM [main] [debug] GUIUtilities: Loading icon theme from: jeditresource:/org/gjt/sp/jedit/icons/themes/tango/
+1:19:24 PM [main] [debug] SplashScreen: init GUI:3/296ms
+1:19:24 PM [main] [debug] EditServer: jEdit server started on port 44005
+1:19:24 PM [main] [debug] EditServer: Authorization key is 550137708
+1:19:24 PM [main] [debug] SplashScreen: init server:14/310ms
+1:19:24 PM [main] [debug] jEdit: initPLAF non-edt old=javax.swing.plaf.metal.MetalLookAndFeel requested=javax.swing.plaf.metal.MetalLookAndFeel new=javax.swing.plaf.metal.MetalLookAndFeel
+1:19:24 PM [main] [debug] SplashScreen: init look and feel:24/334ms
+1:19:24 PM [main] [debug] SplashScreen: init VFS Manager:2/336ms
+1:19:24 PM [main] [debug] ActionSet: Loading actions from jar:file:/usr/share/jedit/jedit.jar!/org/gjt/sp/jedit/actions.xml
+1:19:24 PM [main] [debug] DockableWindowManager: Loading dockables from jar:file:/usr/share/jedit/jedit.jar!/org/gjt/sp/jedit/dockables.xml
+1:19:24 PM [main] [debug] SplashScreen: init resources:83/419ms
+1:19:24 PM [AWT-EventQueue-0] [debug] EditBus: SearchSettingsChanged[source=null]
+1:19:24 PM [main] [debug] SplashScreen: Migrate keymaps:50/469ms
+1:19:24 PM [main] [notice] jEdit: Loading plugins from /usr/share/jedit/jars
+1:19:24 PM [main] [notice] jEdit: Loading plugins from /home/nfisher/jedit/jars
+1:19:24 PM [AWT-EventQueue-0] [debug] EditBus: PluginUpdate[what=LOADED,exit=false,version=1.0,source=/home/nfisher/jedit/jars/ProcessShell.jar,class=procshell.ProcessShellPlugin]
+1:19:24 PM [AWT-EventQueue-0] [debug] EditBus: PluginUpdate[what=LOADED,exit=false,version=1.0.2,source=/home/nfisher/jedit/jars/WhiteSpace.jar,class=whitespace.WhiteSpacePlugin]
+1:19:24 PM [AWT-EventQueue-0] [debug] EditBus: PluginUpdate[what=LOADED,exit=false,version=null,source=/home/nfisher/jedit/jars/jython.jar]
+1:19:24 PM [AWT-EventQueue-0] [debug] EditBus: PluginUpdate[what=LOADED,exit=false,version=null,source=/home/nfisher/jedit/jars/jna.jar]
+1:19:24 PM [AWT-EventQueue-0] [debug] EditBus: PluginUpdate[what=LOADED,exit=false,version=1.0,source=/home/nfisher/jedit/jars/JythonInterpreter.jar,class=jython.JythonPlugin]
+1:19:24 PM [AWT-EventQueue-0] [debug] EditBus: PluginUpdate[what=LOADED,exit=false,version=1.0.8,source=/home/nfisher/jedit/jars/VoxSpell.jar,class=voxspellcheck.VoxSpellPlugin]
+1:19:24 PM [AWT-EventQueue-0] [debug] EditBus: PluginUpdate[what=LOADED,exit=false,version=R007,source=/home/nfisher/jedit/jars/SpellCheck.jar,class=cswilly.jeditPlugins.spell.SpellCheckPlugin]
+1:19:24 PM [AWT-EventQueue-0] [debug] EditBus: PluginUpdate[what=LOADED,exit=false,version=3.0.1,source=/home/nfisher/jedit/jars/ProjectViewer.jar,class=projectviewer.ProjectPlugin]
+1:19:24 PM [AWT-EventQueue-0] [debug] EditBus: PluginUpdate[what=LOADED,exit=false,version=null,source=/home/nfisher/jedit/jars/jythonlib.jar]
+1:19:24 PM [AWT-EventQueue-0] [debug] EditBus: PluginUpdate[what=LOADED,exit=false,version=1.3,source=/home/nfisher/jedit/jars/SideKick.jar,class=sidekick.SideKickPlugin]
+1:19:24 PM [AWT-EventQueue-0] [debug] EditBus: PluginUpdate[what=LOADED,exit=false,version=1.15,source=/home/nfisher/jedit/jars/TextTools.jar,class=TextToolsPlugin]
+1:19:24 PM [AWT-EventQueue-0] [debug] EditBus: PluginUpdate[what=LOADED,exit=false,version=0.6,source=/home/nfisher/jedit/jars/Code2HTML.jar,class=code2html.Code2HTMLPlugin]
+1:19:24 PM [AWT-EventQueue-0] [debug] EditBus: PluginUpdate[what=LOADED,exit=false,version=1.3,source=/home/nfisher/jedit/jars/CommonControls.jar,class=CommonControlsPlugin]
+1:19:24 PM [AWT-EventQueue-0] [debug] EditBus: PluginUpdate[what=LOADED,exit=false,version=null,source=/home/nfisher/jedit/jars/kappalayout.jar]
+1:19:24 PM [AWT-EventQueue-0] [debug] EditBus: PluginUpdate[what=LOADED,exit=false,version=3.2.0,source=/home/nfisher/jedit/jars/JDiffPlugin.jar,class=jdiff.JDiffPlugin]
+1:19:24 PM [AWT-EventQueue-0] [debug] EditBus: PluginUpdate[what=LOADED,exit=false,version=null,source=/home/nfisher/jedit/jars/hunspell.jar]
+1:19:24 PM [AWT-EventQueue-0] [debug] EditBus: PluginUpdate[what=LOADED,exit=false,version=1.5.2,source=/home/nfisher/jedit/jars/OpenIt.jar,class=org.etheridge.openit.OpenItPlugin]
+1:19:24 PM [AWT-EventQueue-0] [debug] EditBus: PluginUpdate[what=LOADED,exit=false,version=4.5,source=/home/nfisher/jedit/jars/Console.jar,class=console.ConsolePlugin]
+1:19:24 PM [AWT-EventQueue-0] [debug] EditBus: PluginUpdate[what=LOADED,exit=false,version=1.9,source=/home/nfisher/jedit/jars/ErrorList.jar,class=errorlist.ErrorListPlugin]
+1:19:24 PM [main] [debug] SplashScreen: init plugins:56/525ms
+1:19:24 PM [main] [message] HistoryModel: Loading history
+1:19:24 PM [main] [debug] SplashScreen: init history model:5/530ms
+1:19:24 PM [main] [message] BufferHistory: Loading /home/nfisher/jedit/recent.xml
+1:19:24 PM [main] [debug] SplashScreen: init buffer history:9/539ms
+1:19:24 PM [main] [message] KillRing: Loading /home/nfisher/jedit/killring.xml
+1:19:24 PM [main] [debug] SplashScreen: init killring:12/551ms
+1:19:24 PM [main] [debug] jEdit: initPLAF non-edt old=javax.swing.plaf.metal.MetalLookAndFeel requested=javax.swing.plaf.metal.MetalLookAndFeel new=javax.swing.plaf.metal.MetalLookAndFeel
+1:19:24 PM [main] [debug] jEdit: SOCKS proxy disabled
+1:19:24 PM [main] [debug] jEdit: HTTP proxy enabled: rsppsb01.st.northgrum.com
+1:19:24 PM [main] [debug] jEdit: HTTP proxy without user
+1:19:25 PM [AWT-EventQueue-0] [debug] EditBus: PropertiesChanged[source=null]
+1:19:25 PM [main] [debug] SplashScreen: init various properties:152/703ms
+1:19:25 PM [main] [message] jEdit: Loading mode catalog file /usr/share/jedit/modes/catalog
+1:19:25 PM [main] [message] jEdit: Loading mode catalog file /home/nfisher/jedit/modes/catalog
+1:19:25 PM [main] [debug] SplashScreen: init modes:52/755ms
+1:19:25 PM [main] [debug] PluginJAR: Activating whitespace.WhiteSpacePlugin because of startup
+1:19:25 PM [main] [debug] PluginJAR: Opening /home/nfisher/jedit/jars/WhiteSpace.jar
+1:19:25 PM [main] [debug] PluginJAR: Activating jython.JythonPlugin because of startup
+1:19:25 PM [AWT-EventQueue-0] [debug] EditBus: PluginUpdate[what=ACTIVATED,exit=false,version=1.0.2,source=/home/nfisher/jedit/jars/WhiteSpace.jar,class=whitespace.WhiteSpacePlugin]
+1:19:25 PM [main] [debug] PluginJAR: Opening /home/nfisher/jedit/jars/JythonInterpreter.jar
+1:19:25 PM [main] [debug] Macros: Registered beanshell macro handler
+1:19:25 PM [main] [debug] Macros: Registered jython macro handler
+1:19:25 PM [main] [debug] PluginJAR: Activating voxspellcheck.VoxSpellPlugin because of startup
+1:19:25 PM [AWT-EventQueue-0] [debug] EditBus: PluginUpdate[what=ACTIVATED,exit=false,version=1.0,source=/home/nfisher/jedit/jars/JythonInterpreter.jar,class=jython.JythonPlugin]
+1:19:25 PM [main] [debug] PluginJAR: Opening /home/nfisher/jedit/jars/VoxSpell.jar
+1:19:25 PM [main] [debug] PluginJAR: Activating cswilly.jeditPlugins.spell.SpellCheckPlugin because of startup
+1:19:26 PM [AWT-EventQueue-0] [debug] EditBus: PluginUpdate[what=ACTIVATED,exit=false,version=1.0.8,source=/home/nfisher/jedit/jars/VoxSpell.jar,class=voxspellcheck.VoxSpellPlugin]
+1:19:26 PM [main] [debug] PluginJAR: Opening /home/nfisher/jedit/jars/SpellCheck.jar
+1:19:26 PM [main] [debug] PluginJAR: Activating sidekick.SideKickPlugin because of startup
+1:19:26 PM [AWT-EventQueue-0] [debug] EditBus: PluginUpdate[what=ACTIVATED,exit=false,version=R007,source=/home/nfisher/jedit/jars/SpellCheck.jar,class=cswilly.jeditPlugins.spell.SpellCheckPlugin]
+1:19:26 PM [main] [debug] PluginJAR: Opening /home/nfisher/jedit/jars/SideKick.jar
+1:19:26 PM [main] [debug] PluginJAR: Activating code2html.Code2HTMLPlugin because of startup
+1:19:26 PM [AWT-EventQueue-0] [debug] EditBus: PluginUpdate[what=ACTIVATED,exit=false,version=1.3,source=/home/nfisher/jedit/jars/SideKick.jar,class=sidekick.SideKickPlugin]
+1:19:26 PM [main] [debug] PluginJAR: Opening /home/nfisher/jedit/jars/Code2HTML.jar
+1:19:26 PM [AWT-EventQueue-0] [debug] EditBus: PluginUpdate[what=ACTIVATED,exit=false,version=0.6,source=/home/nfisher/jedit/jars/Code2HTML.jar,class=code2html.Code2HTMLPlugin]
+1:19:26 PM [main] [debug] PluginJAR: Activating console.ConsolePlugin because of startup
+1:19:26 PM [main] [debug] PluginJAR: Opening /home/nfisher/jedit/jars/Console.jar
+1:19:26 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=plugin.console.ConsolePlugin.menu,source=null]
+1:19:26 PM [main] [debug] ConsolePlugin: Loaded 19 Actions
+1:19:26 PM [main] [debug] PluginJAR: Opening /home/nfisher/jedit/jars/ErrorList.jar
+1:19:26 PM [AWT-EventQueue-0] [debug] EditBus: PluginUpdate[what=ACTIVATED,exit=false,version=1.9,source=/home/nfisher/jedit/jars/ErrorList.jar,class=errorlist.ErrorListPlugin]
+1:19:26 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=plugin.console.ConsolePlugin.menu,source=null]
+1:19:26 PM [AWT-EventQueue-0] [debug] EditBus: PluginUpdate[what=ACTIVATED,exit=false,version=4.5,source=/home/nfisher/jedit/jars/Console.jar,class=console.ConsolePlugin]
+1:19:26 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=plugin.console.ConsolePlugin.menu,source=null]
+1:19:26 PM [main] [debug] SplashScreen: activate plugins:876/1631ms
+1:19:26 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=macros,source=null]
+1:19:26 PM [main] [message] BeanShell: Running script /usr/share/jedit/startup/startup.bsh
+1:19:26 PM [main] [notice] jEdit$3: Loading edit mode /usr/share/jedit/modes/text.xml
+1:19:26 PM [main] [debug] String: BeanShell interpreter version 2.0b4-jedit
+1:19:26 PM [main] [debug] SplashScreen: init macros:96/1727ms
+1:19:26 PM [main] [debug] SplashScreen: run startup scripts:1/1728ms
+1:19:26 PM [main] [debug] SplashScreen: run startup scripts:2/1729ms
+1:19:26 PM [main] [debug] jEdit: main done:1911 ms
+1:19:26 PM [AWT-EventQueue-0] [message] PerspectiveManager: Loading /home/nfisher/jedit/perspective.xml
+1:19:26 PM [AWT-EventQueue-0] [notice] jEdit$3: Loading edit mode /home/nfisher/jedit/modes/python-custom.xml
+1:19:26 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=PROPERTIES_CHANGED,view=null,source=client_utils.py (~/code/slams/applications/utils/)]
+1:19:26 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=CREATED,view=null,source=client_utils.py (~/code/slams/applications/utils/)]
+1:19:26 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOAD_STARTED,view=null,source=client_utils.py (~/code/slams/applications/utils/)]
+1:19:26 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOADED,view=null,source=client_utils.py (~/code/slams/applications/utils/)]
+1:19:26 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=PROPERTIES_CHANGED,view=null,source=clustering_tool_client.py (~/code/slams/runscripts/products/accessories/clustering_tool/)]
+1:19:26 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=CREATED,view=null,source=clustering_tool_client.py (~/code/slams/runscripts/products/accessories/clustering_tool/)]
+1:19:26 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOAD_STARTED,view=null,source=clustering_tool_client.py (~/code/slams/runscripts/products/accessories/clustering_tool/)]
+1:19:26 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOADED,view=null,source=clustering_tool_client.py (~/code/slams/runscripts/products/accessories/clustering_tool/)]
+1:19:26 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=PROPERTIES_CHANGED,view=null,source=settings.py (~/.intellisis/configs/other/ct_config/)]
+1:19:26 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=CREATED,view=null,source=settings.py (~/.intellisis/configs/other/ct_config/)]
+1:19:26 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOAD_STARTED,view=null,source=settings.py (~/.intellisis/configs/other/ct_config/)]
+1:19:26 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOADED,view=null,source=settings.py (~/.intellisis/configs/other/ct_config/)]
+1:19:26 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=PROPERTIES_CHANGED,view=null,source=slams_common.py (~/code/slams/applications/)]
+1:19:26 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=CREATED,view=null,source=slams_common.py (~/code/slams/applications/)]
+1:19:26 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOAD_STARTED,view=null,source=slams_common.py (~/code/slams/applications/)]
+1:19:26 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOADED,view=null,source=slams_common.py (~/code/slams/applications/)]
+1:19:30 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=PROPERTIES_CHANGED,view=null,source=slams_engine.py (~/code/slams/applications/)]
+1:19:30 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=CREATED,view=null,source=slams_engine.py (~/code/slams/applications/)]
+1:19:30 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOAD_STARTED,view=null,source=slams_engine.py (~/code/slams/applications/)]
+1:19:30 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOADED,view=null,source=slams_engine.py (~/code/slams/applications/)]
+1:19:30 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=PROPERTIES_CHANGED,view=null,source=slams_http_client.py (~/code/slams/applications/server/)]
+1:19:30 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=CREATED,view=null,source=slams_http_client.py (~/code/slams/applications/server/)]
+1:19:30 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOAD_STARTED,view=null,source=slams_http_client.py (~/code/slams/applications/server/)]
+1:19:30 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOADED,view=null,source=slams_http_client.py (~/code/slams/applications/server/)]
+1:19:30 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=PROPERTIES_CHANGED,view=null,source=vpn_connect (~/bin/)]
+1:19:30 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=CREATED,view=null,source=vpn_connect (~/bin/)]
+1:19:30 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOAD_STARTED,view=null,source=vpn_connect (~/bin/)]
+1:19:30 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOADED,view=null,source=vpn_connect (~/bin/)]
+1:19:30 PM [AWT-EventQueue-0] [debug] BufferSet: 936556150: addBufferSetListener org.gjt.sp.jedit.EditPane[inactive]
+1:19:30 PM [AWT-EventQueue-0] [debug] EditBus: BufferChanging[what=BUFFER_CHANGING,source=org.gjt.sp.jedit.EditPane[inactive]]
+1:19:30 PM [AWT-EventQueue-0] [debug] jEdit: checkBufferStatus for current buffer: null
+1:19:30 PM [AWT-EventQueue-0] [debug] BufferSet: 936556150 addBufferAt(slams_engine.py (~/code/slams/applications/),-1)
+1:19:30 PM [AWT-EventQueue-0] [debug] BufferSet: 936556150: Buffer added slams_engine.py (~/code/slams/applications/) at 0
+1:19:30 PM [AWT-EventQueue-0] [debug] EditBus: EditPaneUpdate[what=CREATED,source=org.gjt.sp.jedit.EditPane[inactive]]
+1:19:30 PM [AWT-EventQueue-0] [debug] BufferSet: 936556150 addBufferAt(slams_engine.py (~/code/slams/applications/),0)
+1:19:30 PM [AWT-EventQueue-0] [debug] BufferSet: 936556150 addBufferAt(client_utils.py (~/code/slams/applications/utils/),1)
+1:19:30 PM [AWT-EventQueue-0] [debug] BufferSet: 936556150: Buffer added client_utils.py (~/code/slams/applications/utils/) at 0
+1:19:30 PM [AWT-EventQueue-0] [debug] BufferSet: 936556150 addBufferAt(clustering_tool_client.py (~/code/slams/runscripts/products/accessories/clustering_tool/),2)
+1:19:30 PM [AWT-EventQueue-0] [debug] BufferSet: 936556150: Buffer added clustering_tool_client.py (~/code/slams/runscripts/products/accessories/clustering_tool/) at 1
+1:19:30 PM [AWT-EventQueue-0] [debug] BufferSet: 936556150 addBufferAt(settings.py (~/.intellisis/configs/other/ct_config/),3)
+1:19:30 PM [AWT-EventQueue-0] [debug] BufferSet: 936556150: Buffer added settings.py (~/.intellisis/configs/other/ct_config/) at 2
+1:19:30 PM [AWT-EventQueue-0] [debug] BufferSet: 936556150 addBufferAt(slams_common.py (~/code/slams/applications/),4)
+1:19:30 PM [AWT-EventQueue-0] [debug] BufferSet: 936556150: Buffer added slams_common.py (~/code/slams/applications/) at 3
+1:19:30 PM [AWT-EventQueue-0] [debug] BufferSet: 936556150 addBufferAt(slams_engine.py (~/code/slams/applications/),5)
+1:19:30 PM [AWT-EventQueue-0] [debug] BufferSet: 936556150 addBufferAt(slams_http_client.py (~/code/slams/applications/server/),6)
+1:19:30 PM [AWT-EventQueue-0] [debug] BufferSet: 936556150: Buffer added slams_http_client.py (~/code/slams/applications/server/) at 5
+1:19:30 PM [AWT-EventQueue-0] [debug] BufferSet: 936556150 addBufferAt(vpn_connect (~/bin/),7)
+1:19:30 PM [AWT-EventQueue-0] [debug] BufferSet: 936556150: Buffer added vpn_connect (~/bin/) at 6
+1:19:30 PM [AWT-EventQueue-0] [debug] BufferSet: 1749715399: addBufferSetListener org.gjt.sp.jedit.EditPane[inactive]
+1:19:30 PM [AWT-EventQueue-0] [debug] EditBus: BufferChanging[what=BUFFER_CHANGING,source=org.gjt.sp.jedit.EditPane[inactive]]
+1:19:30 PM [AWT-EventQueue-0] [debug] jEdit: checkBufferStatus for current buffer: slams_engine.py (~/code/slams/applications/)
+1:19:30 PM [AWT-EventQueue-0] [debug] BufferSet: 1749715399 addBufferAt(vpn_connect (~/bin/),-1)
+1:19:30 PM [AWT-EventQueue-0] [debug] BufferSet: 1749715399: Buffer added vpn_connect (~/bin/) at 0
+1:19:30 PM [AWT-EventQueue-0] [debug] EditBus: EditPaneUpdate[what=CREATED,source=org.gjt.sp.jedit.EditPane[inactive]]
+1:19:30 PM [AWT-EventQueue-0] [debug] BufferSet: 1749715399 addBufferAt(vpn_connect (~/bin/),0)
+1:19:30 PM [AWT-EventQueue-0] [debug] BufferSet: 1749715399 addBufferAt(client_utils.py (~/code/slams/applications/utils/),1)
+1:19:30 PM [AWT-EventQueue-0] [debug] BufferSet: 1749715399: Buffer added client_utils.py (~/code/slams/applications/utils/) at 0
+1:19:30 PM [AWT-EventQueue-0] [debug] BufferSet: 1749715399 addBufferAt(clustering_tool_client.py (~/code/slams/runscripts/products/accessories/clustering_tool/),2)
+1:19:30 PM [AWT-EventQueue-0] [debug] BufferSet: 1749715399: Buffer added clustering_tool_client.py (~/code/slams/runscripts/products/accessories/clustering_tool/) at 1
+1:19:30 PM [AWT-EventQueue-0] [debug] BufferSet: 1749715399 addBufferAt(settings.py (~/.intellisis/configs/other/ct_config/),3)
+1:19:30 PM [AWT-EventQueue-0] [debug] BufferSet: 1749715399: Buffer added settings.py (~/.intellisis/configs/other/ct_config/) at 2
+1:19:30 PM [AWT-EventQueue-0] [debug] BufferSet: 1749715399 addBufferAt(slams_common.py (~/code/slams/applications/),4)
+1:19:30 PM [AWT-EventQueue-0] [debug] BufferSet: 1749715399: Buffer added slams_common.py (~/code/slams/applications/) at 3
+1:19:30 PM [AWT-EventQueue-0] [debug] BufferSet: 1749715399 addBufferAt(slams_engine.py (~/code/slams/applications/),5)
+1:19:30 PM [AWT-EventQueue-0] [debug] BufferSet: 1749715399: Buffer added slams_engine.py (~/code/slams/applications/) at 4
+1:19:30 PM [AWT-EventQueue-0] [debug] BufferSet: 1749715399 addBufferAt(slams_http_client.py (~/code/slams/applications/server/),6)
+1:19:30 PM [AWT-EventQueue-0] [debug] BufferSet: 1749715399: Buffer added slams_http_client.py (~/code/slams/applications/server/) at 5
+1:19:30 PM [AWT-EventQueue-0] [debug] BufferSet: 1749715399 addBufferAt(vpn_connect (~/bin/),7)
+1:19:31 PM [AWT-EventQueue-0] [debug] EditBus: ViewUpdate[what=CREATED,source=org.gjt.sp.jedit.View[active]]
+1:19:31 PM [AWT-EventQueue-0] [debug] SideKick: No parser
+1:19:31 PM [AWT-EventQueue-0] [debug] SideKickParsedData: Setting parsed data of org.gjt.sp.jedit.View[active] to sidekick.SideKickParsedData@a3cff6a
+1:19:31 PM [AWT-EventQueue-0] [debug] EditBus: SideKickUpdate[source=null]
+1:19:31 PM [AWT-EventQueue-0] [debug] EditBus: EditorStarted[source=null]
+1:19:31 PM [AWT-EventQueue-0] [message] jEdit: Startup complete: 6989 ms
+1:19:31 PM [AWT-EventQueue-0] [debug] EditBus: ViewUpdate[what=VIEW_ACTIVATED,source=org.gjt.sp.jedit.View[active]]
+1:19:31 PM [AWT-EventQueue-0] [debug] jEdit: checkBufferStatus for all buffers
+1:19:31 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=recent-files,source=null]
+1:19:31 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=recent-files,source=null]
+1:19:31 PM [AWT-EventQueue-0] [debug] JEditTextArea: InputMethodSupport is activated
+1:19:33 PM [AWT-EventQueue-0] [debug] EditBus: ViewUpdate[what=VIEW_ACTIVATED,source=org.gjt.sp.jedit.View[active]]
+1:19:33 PM [AWT-EventQueue-0] [debug] jEdit: checkBufferStatus for all buffers
+1:19:33 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=recent-files,source=null]
+1:19:33 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=recent-files,source=null]
+1:19:34 PM [AWT-EventQueue-0] [debug] EditBus: EditorExitRequested[source=org.gjt.sp.jedit.View[active]]
+1:19:34 PM [AWT-EventQueue-0] [message] PerspectiveManager: Saving /home/nfisher/jedit/perspective.xml
+1:19:34 PM [AWT-EventQueue-0] [debug] MiscUtilities: Saving backup of file "/home/nfisher/jedit/perspective.xml" to "/home/nfisher/jedit/settings-backup/perspective.xml~1~"
+1:19:34 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=recent-files,source=null]
+1:19:34 PM [AWT-EventQueue-0] [debug] EditBus: ViewUpdate[what=EDIT_PANE_CHANGED,source=org.gjt.sp.jedit.View[active]]
+1:19:34 PM [AWT-EventQueue-0] [debug] SideKick: No parser
+1:19:34 PM [AWT-EventQueue-0] [debug] SideKickParsedData: Setting parsed data of org.gjt.sp.jedit.View[active] to sidekick.SideKickParsedData@58b7dade
+1:19:34 PM [AWT-EventQueue-0] [debug] EditBus: SideKickUpdate[source=null]
+1:19:36 PM [AWT-EventQueue-0] [debug] EditBus: ViewUpdate[what=VIEW_ACTIVATED,source=org.gjt.sp.jedit.View[active]]
+1:19:36 PM [AWT-EventQueue-0] [debug] jEdit: checkBufferStatus for all buffers
+1:19:36 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=recent-files,source=null]
+1:19:36 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=recent-files,source=null]
+1:19:36 PM [AWT-EventQueue-0] [debug] EditBus: ViewUpdate[what=EDIT_PANE_CHANGED,source=org.gjt.sp.jedit.View[active]]
+1:19:36 PM [AWT-EventQueue-0] [debug] SideKick: No parser
+1:19:36 PM [AWT-EventQueue-0] [debug] SideKickParsedData: Setting parsed data of org.gjt.sp.jedit.View[active] to sidekick.SideKickParsedData@3bc88ef
+1:19:36 PM [AWT-EventQueue-0] [debug] EditBus: SideKickUpdate[source=null]
+1:19:37 PM [AWT-EventQueue-0] [debug] EditBus: EditorExitRequested[source=org.gjt.sp.jedit.View[active]]
+1:19:37 PM [AWT-EventQueue-0] [message] PerspectiveManager: Saving /home/nfisher/jedit/perspective.xml
+1:19:37 PM [AWT-EventQueue-0] [debug] MiscUtilities: Saving backup of file "/home/nfisher/jedit/perspective.xml" to "/home/nfisher/jedit/settings-backup/perspective.xml~1~"
+1:19:37 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=recent-files,source=null]
+1:19:37 PM [AWT-EventQueue-0] [debug] EditBus: ViewUpdate[what=EDIT_PANE_CHANGED,source=org.gjt.sp.jedit.View[active]]
+1:19:37 PM [AWT-EventQueue-0] [debug] SideKick: No parser
+1:19:37 PM [AWT-EventQueue-0] [debug] SideKickParsedData: Setting parsed data of org.gjt.sp.jedit.View[active] to sidekick.SideKickParsedData@104bb2ba
+1:19:37 PM [AWT-EventQueue-0] [debug] EditBus: SideKickUpdate[source=null]
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=recent-files,source=null]
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=recent-files,source=null]
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=CLOSING,view=org.gjt.sp.jedit.View[active],source=slams_engine.py (~/code/slams/applications/)]
+1:19:41 PM [AWT-EventQueue-0] [debug] BufferSet: 936556150: Buffer removed slams_engine.py (~/code/slams/applications/)
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: BufferChanging[what=BUFFER_CHANGING,source=org.gjt.sp.jedit.EditPane[active]]
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: EditPaneUpdate[what=BUFFER_CHANGED,source=org.gjt.sp.jedit.EditPane[active]]
+1:19:41 PM [AWT-EventQueue-0] [debug] SideKick: No parser
+1:19:41 PM [AWT-EventQueue-0] [debug] SideKickParsedData: Setting parsed data of org.gjt.sp.jedit.View[active] to sidekick.SideKickParsedData@724888e7
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: SideKickUpdate[source=null]
+1:19:41 PM [AWT-EventQueue-0] [debug] jEdit: checkBufferStatus for current buffer: slams_common.py (~/code/slams/applications/)
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=recent-files,source=null]
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=recent-files,source=null]
+1:19:41 PM [AWT-EventQueue-0] [debug] BufferSet: 1749715399: Buffer removed slams_engine.py (~/code/slams/applications/)
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=CLOSED,view=org.gjt.sp.jedit.View[active],source=slams_engine.py (~/code/slams/applications/)]
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: EditorExiting[source=null]
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: ViewUpdate[what=CLOSED,source=org.gjt.sp.jedit.View[active]]
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=recent-files,source=null]
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: EditPaneUpdate[what=DESTROYED,source=org.gjt.sp.jedit.EditPane[inactive]]
+1:19:41 PM [AWT-EventQueue-0] [debug] BufferSet: 1749715399: Buffer removed client_utils.py (~/code/slams/applications/utils/)
+1:19:41 PM [AWT-EventQueue-0] [debug] BufferSet: 1749715399: Buffer removed clustering_tool_client.py (~/code/slams/runscripts/products/accessories/clustering_tool/)
+1:19:41 PM [AWT-EventQueue-0] [debug] BufferSet: 1749715399: Buffer removed settings.py (~/.intellisis/configs/other/ct_config/)
+1:19:41 PM [AWT-EventQueue-0] [debug] BufferSet: 1749715399: Buffer removed slams_common.py (~/code/slams/applications/)
+1:19:41 PM [AWT-EventQueue-0] [debug] BufferSet: 1749715399: Buffer removed slams_http_client.py (~/code/slams/applications/server/)
+1:19:41 PM [AWT-EventQueue-0] [debug] BufferSet: 1749715399: Buffer removed vpn_connect (~/bin/)
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=recent-files,source=null]
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: EditPaneUpdate[what=DESTROYED,source=org.gjt.sp.jedit.EditPane[active]]
+1:19:41 PM [AWT-EventQueue-0] [debug] BufferSet: 936556150: Buffer removed client_utils.py (~/code/slams/applications/utils/)
+1:19:41 PM [AWT-EventQueue-0] [debug] BufferSetManager: Buffer:client_utils.py (~/code/slams/applications/utils/) is in no bufferSet anymore, closing it
+1:19:41 PM [AWT-EventQueue-0] [debug] BufferSet: 936556150: Buffer removed clustering_tool_client.py (~/code/slams/runscripts/products/accessories/clustering_tool/)
+1:19:41 PM [AWT-EventQueue-0] [debug] BufferSetManager: Buffer:clustering_tool_client.py (~/code/slams/runscripts/products/accessories/clustering_tool/) is in no bufferSet anymore, closing it
+1:19:41 PM [AWT-EventQueue-0] [debug] BufferSet: 936556150: Buffer removed settings.py (~/.intellisis/configs/other/ct_config/)
+1:19:41 PM [AWT-EventQueue-0] [debug] BufferSetManager: Buffer:settings.py (~/.intellisis/configs/other/ct_config/) is in no bufferSet anymore, closing it
+1:19:41 PM [AWT-EventQueue-0] [debug] BufferSet: 936556150: Buffer removed slams_common.py (~/code/slams/applications/)
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: BufferChanging[what=BUFFER_CHANGING,source=org.gjt.sp.jedit.EditPane[active]]
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: EditPaneUpdate[what=BUFFER_CHANGED,source=org.gjt.sp.jedit.EditPane[active]]
+1:19:41 PM [AWT-EventQueue-0] [debug] jEdit: checkBufferStatus for current buffer: slams_http_client.py (~/code/slams/applications/server/)
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=recent-files,source=null]
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=recent-files,source=null]
+1:19:41 PM [AWT-EventQueue-0] [debug] BufferSetManager: Buffer:slams_common.py (~/code/slams/applications/) is in no bufferSet anymore, closing it
+1:19:41 PM [AWT-EventQueue-0] [debug] BufferSet: 936556150: Buffer removed slams_http_client.py (~/code/slams/applications/server/)
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: BufferChanging[what=BUFFER_CHANGING,source=org.gjt.sp.jedit.EditPane[active]]
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: EditPaneUpdate[what=BUFFER_CHANGED,source=org.gjt.sp.jedit.EditPane[active]]
+1:19:41 PM [AWT-EventQueue-0] [debug] jEdit: checkBufferStatus for current buffer: vpn_connect (~/bin/)
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=recent-files,source=null]
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=recent-files,source=null]
+1:19:41 PM [AWT-EventQueue-0] [debug] BufferSetManager: Buffer:slams_http_client.py (~/code/slams/applications/server/) is in no bufferSet anymore, closing it
+1:19:41 PM [AWT-EventQueue-0] [debug] BufferSet: 936556150: Buffer removed vpn_connect (~/bin/)
+1:19:41 PM [AWT-EventQueue-0] [debug] BufferSetManager: Buffer:vpn_connect (~/bin/) is in no bufferSet anymore, closing it
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: PluginUpdate[what=UNLOADED,exit=true,version=1.0,source=/home/nfisher/jedit/jars/ProcessShell.jar,class=procshell.ProcessShellPlugin]
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=plugin.console.ConsolePlugin.menu,source=null]
+1:19:41 PM [AWT-EventQueue-0] [debug] WhiteSpacePlugin: removing all highlights
+1:19:41 PM [AWT-EventQueue-0] [debug] WhiteSpacePlugin: removing WhiteSpaceModel properties
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: PluginUpdate[what=DEACTIVATED,exit=true,version=1.0.2,source=/home/nfisher/jedit/jars/WhiteSpace.jar,class=whitespace.WhiteSpacePlugin]
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=plugin.console.ConsolePlugin.menu,source=null]
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: PluginUpdate[what=UNLOADED,exit=true,version=1.0.2,source=/home/nfisher/jedit/jars/WhiteSpace.jar,class=whitespace.WhiteSpacePlugin]
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=plugin.console.ConsolePlugin.menu,source=null]
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: PluginUpdate[what=UNLOADED,exit=true,version=null,source=/home/nfisher/jedit/jars/jython.jar]
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=plugin.console.ConsolePlugin.menu,source=null]
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: PluginUpdate[what=UNLOADED,exit=true,version=null,source=/home/nfisher/jedit/jars/jna.jar]
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=plugin.console.ConsolePlugin.menu,source=null]
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: PluginUpdate[what=DEACTIVATED,exit=true,version=1.0,source=/home/nfisher/jedit/jars/JythonInterpreter.jar,class=jython.JythonPlugin]
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=plugin.console.ConsolePlugin.menu,source=null]
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: PluginUpdate[what=UNLOADED,exit=true,version=1.0,source=/home/nfisher/jedit/jars/JythonInterpreter.jar,class=jython.JythonPlugin]
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=plugin.console.ConsolePlugin.menu,source=null]
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: PluginUpdate[what=DEACTIVATED,exit=true,version=1.0.8,source=/home/nfisher/jedit/jars/VoxSpell.jar,class=voxspellcheck.VoxSpellPlugin]
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=plugin.console.ConsolePlugin.menu,source=null]
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: PluginUpdate[what=UNLOADED,exit=true,version=1.0.8,source=/home/nfisher/jedit/jars/VoxSpell.jar,class=voxspellcheck.VoxSpellPlugin]
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=plugin.console.ConsolePlugin.menu,source=null]
+1:19:41 PM [AWT-EventQueue-0] [debug] SpellCheckPlugin: stopping SpellCheckPlugin
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: PluginUpdate[what=DEACTIVATED,exit=true,version=R007,source=/home/nfisher/jedit/jars/SpellCheck.jar,class=cswilly.jeditPlugins.spell.SpellCheckPlugin]
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=plugin.console.ConsolePlugin.menu,source=null]
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: PluginUpdate[what=UNLOADED,exit=true,version=R007,source=/home/nfisher/jedit/jars/SpellCheck.jar,class=cswilly.jeditPlugins.spell.SpellCheckPlugin]
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=plugin.console.ConsolePlugin.menu,source=null]
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: PluginUpdate[what=UNLOADED,exit=true,version=3.0.1,source=/home/nfisher/jedit/jars/ProjectViewer.jar,class=projectviewer.ProjectPlugin]
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=plugin.console.ConsolePlugin.menu,source=null]
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: PluginUpdate[what=UNLOADED,exit=true,version=null,source=/home/nfisher/jedit/jars/jythonlib.jar]
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=plugin.console.ConsolePlugin.menu,source=null]
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: PluginUpdate[what=DEACTIVATED,exit=true,version=1.3,source=/home/nfisher/jedit/jars/SideKick.jar,class=sidekick.SideKickPlugin]
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=plugin.console.ConsolePlugin.menu,source=null]
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: PluginUpdate[what=UNLOADED,exit=true,version=1.3,source=/home/nfisher/jedit/jars/SideKick.jar,class=sidekick.SideKickPlugin]
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=plugin.console.ConsolePlugin.menu,source=null]
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: PluginUpdate[what=UNLOADED,exit=true,version=1.15,source=/home/nfisher/jedit/jars/TextTools.jar,class=TextToolsPlugin]
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=plugin.console.ConsolePlugin.menu,source=null]
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: PluginUpdate[what=DEACTIVATED,exit=true,version=0.6,source=/home/nfisher/jedit/jars/Code2HTML.jar,class=code2html.Code2HTMLPlugin]
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=plugin.console.ConsolePlugin.menu,source=null]
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: PluginUpdate[what=UNLOADED,exit=true,version=0.6,source=/home/nfisher/jedit/jars/Code2HTML.jar,class=code2html.Code2HTMLPlugin]
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=plugin.console.ConsolePlugin.menu,source=null]
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: PluginUpdate[what=UNLOADED,exit=true,version=1.3,source=/home/nfisher/jedit/jars/CommonControls.jar,class=CommonControlsPlugin]
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=plugin.console.ConsolePlugin.menu,source=null]
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: PluginUpdate[what=UNLOADED,exit=true,version=null,source=/home/nfisher/jedit/jars/kappalayout.jar]
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=plugin.console.ConsolePlugin.menu,source=null]
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: PluginUpdate[what=UNLOADED,exit=true,version=3.2.0,source=/home/nfisher/jedit/jars/JDiffPlugin.jar,class=jdiff.JDiffPlugin]
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=plugin.console.ConsolePlugin.menu,source=null]
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: PluginUpdate[what=UNLOADED,exit=true,version=null,source=/home/nfisher/jedit/jars/hunspell.jar]
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=plugin.console.ConsolePlugin.menu,source=null]
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: PluginUpdate[what=UNLOADED,exit=true,version=1.5.2,source=/home/nfisher/jedit/jars/OpenIt.jar,class=org.etheridge.openit.OpenItPlugin]
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=plugin.console.ConsolePlugin.menu,source=null]
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: PluginUpdate[what=DEACTIVATED,exit=true,version=4.5,source=/home/nfisher/jedit/jars/Console.jar,class=console.ConsolePlugin]
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: PluginUpdate[what=UNLOADED,exit=true,version=4.5,source=/home/nfisher/jedit/jars/Console.jar,class=console.ConsolePlugin]
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: PluginUpdate[what=DEACTIVATED,exit=true,version=1.9,source=/home/nfisher/jedit/jars/ErrorList.jar,class=errorlist.ErrorListPlugin]
+1:19:41 PM [AWT-EventQueue-0] [debug] EditBus: PluginUpdate[what=UNLOADED,exit=true,version=1.9,source=/home/nfisher/jedit/jars/ErrorList.jar,class=errorlist.ErrorListPlugin]
+1:19:41 PM [AWT-EventQueue-0] [message] BufferHistory: Saving /home/nfisher/jedit/recent.xml
+1:19:41 PM [AWT-EventQueue-0] [debug] MiscUtilities: Saving backup of file "/home/nfisher/jedit/recent.xml" to "/home/nfisher/jedit/settings-backup/recent.xml~1~"
+1:19:41 PM [AWT-EventQueue-0] [message] KillRing: Saving /home/nfisher/jedit/killring.xml
+1:19:41 PM [AWT-EventQueue-0] [debug] MiscUtilities: Saving backup of file "/home/nfisher/jedit/killring.xml" to "/home/nfisher/jedit/settings-backup/killring.xml~1~"
+1:19:41 PM [AWT-EventQueue-0] [debug] MiscUtilities: Saving backup of file "/home/nfisher/jedit/properties" to "/home/nfisher/jedit/settings-backup/properties~1~"
